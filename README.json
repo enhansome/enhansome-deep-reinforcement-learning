@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-25T15:09:36Z",
                 "owner": "ufoym",
                 "repo": "deepo",
-                "stars": 6277
+                "stars": 6276
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-23T18:16:01Z",
+                "last_commit": "2026-08-24T14:22:47Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197377
+                "stars": 197385
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-24T02:43:49Z",
+                "last_commit": "2026-08-24T14:30:18Z",
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102563
+                "stars": 102575
               }
             },
             {
@@ -97,7 +97,7 @@
                     "last_commit": "2026-08-21T23:10:41Z",
                     "owner": "keras-team",
                     "repo": "keras",
-                    "stars": 64247
+                    "stars": 64249
                   }
                 }
               ],
@@ -108,7 +108,7 @@
                 "last_commit": "2026-08-21T23:10:41Z",
                 "owner": "keras-team",
                 "repo": "keras",
-                "stars": 64247
+                "stars": 64249
               }
             },
             {
@@ -120,7 +120,7 @@
                 "archived": false,
                 "id": 65711522,
                 "language": "C++",
-                "last_commit": "2026-08-20T08:08:52Z",
+                "last_commit": "2026-08-24T12:50:19Z",
                 "owner": "PaddlePaddle",
                 "repo": "Paddle",
                 "stars": 24062
@@ -271,10 +271,10 @@
                 "archived": false,
                 "id": 58414589,
                 "language": "C++",
-                "last_commit": "2026-08-22T05:26:48Z",
+                "last_commit": "2026-08-24T12:39:33Z",
                 "owner": "uxlfoundation",
                 "repo": "oneDNN",
-                "stars": 4039
+                "stars": 4040
               }
             },
             {
@@ -409,7 +409,7 @@
                     "last_commit": "2023-11-20T09:13:34Z",
                     "owner": "facebookresearch",
                     "repo": "Detectron",
-                    "stars": 26360
+                    "stars": 26359
                   }
                 },
                 {
@@ -473,6 +473,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "DenseNets (2017). Gao Huang et Al; \"Densely Connected Convolutional Networks\"; arxiv",
+                  "description": ". torch includes links to ports.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 66501243,
+                    "language": "Lua",
+                    "last_commit": "2024-01-09T13:15:40Z",
+                    "owner": "liuzhuang13",
+                    "repo": "DenseNet",
+                    "stars": 4869
+                  }
+                }
+              ],
+              "description": "Overviews: 1, 2, 3",
+              "node_type": "group",
+              "title": "Image Classification Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "thunlp/GNNPapers",
                   "description": null,
                   "children": [],
@@ -483,7 +505,7 @@
                     "last_commit": "2023-12-20T03:33:14Z",
                     "owner": "thunlp",
                     "repo": "GNNPapers",
-                    "stars": 16829
+                    "stars": 16828
                   }
                 },
                 {
@@ -553,6 +575,21 @@
             },
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "Tutorial: pytorch",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88974912,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2017-08-20T12:51:31Z",
+                    "owner": "leongatys",
+                    "repo": "GenerativeImageModellingWithDNNs",
+                    "stars": 26
+                  }
+                },
                 {
                   "node_type": "item",
                   "title": "Deep Dream. caffe",
@@ -637,7 +674,7 @@
                         "last_commit": "2023-10-06T18:30:38Z",
                         "owner": "hindupuravinash",
                         "repo": "the-gan-zoo",
-                        "stars": 14692
+                        "stars": 14690
                       }
                     },
                     {
@@ -667,7 +704,7 @@
                         "last_commit": "2022-02-17T12:44:14Z",
                         "owner": "tkarras",
                         "repo": "progressive_growing_of_gans",
-                        "stars": 6180
+                        "stars": 6179
                       }
                     },
                     {
@@ -725,9 +762,38 @@
                   ]
                 }
               ],
-              "description": "Tutorial: pytorch",
+              "description": null,
               "node_type": "group",
               "title": "Generative Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Autoencoders (AE), Variational Autoencoders (VAE), Denoising Autoencoders.",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Tutorials: keras",
+                      "description": ", keras",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 110412224,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2017-11-12T17:49:36Z",
+                        "owner": "Puayny",
+                        "repo": "Autoencoder-image-similarity",
+                        "stars": 14
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "More Models"
             }
           ],
           "description": null,
@@ -736,6 +802,43 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "awesomedata/awesome-public-datasets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26898879,
+                "language": null,
+                "last_commit": "2026-08-23T23:52:17Z",
+                "owner": "awesomedata",
+                "repo": "awesome-public-datasets",
+                "stars": 78583
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MNIST",
+                  "description": "Handwritten digits, set of 70000 28x28 images, is a subset of a larger set available from NIST (and centered from its 32x32). Also see 2018's Kuzushiji-MNIST.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 152698987,
+                    "language": "Python",
+                    "last_commit": "2024-05-31T13:10:09Z",
+                    "owner": "rois-codh",
+                    "repo": "kmnist",
+                    "stars": 757
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Image Classification"
+            },
             {
               "children": [
                 {
@@ -782,6 +885,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "brain-research/realistic-ssl-evaluation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 130418240,
+                "language": "Python",
+                "last_commit": "2019-07-14T18:10:48Z",
+                "owner": "brain-research",
+                "repo": "realistic-ssl-evaluation",
+                "stars": 460
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NN/DNN Benchmarks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Several pre-trained models: keras web",
               "description": ", keras 1, keras 2, pytorch, caffe, ONNX (pytorch/caffe2).",
               "children": [],
@@ -792,7 +917,7 @@
                 "last_commit": "2026-08-21T23:10:41Z",
                 "owner": "keras-team",
                 "repo": "keras",
-                "stars": 64247
+                "stars": 64249
               }
             },
             {
@@ -834,7 +959,7 @@
                     "last_commit": "2026-08-21T23:10:41Z",
                     "owner": "keras-team",
                     "repo": "keras",
-                    "stars": 64247
+                    "stars": 64249
                   }
                 }
               ]
@@ -902,7 +1027,7 @@
                 "last_commit": "2026-08-11T21:52:04Z",
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25698
+                "stars": 25699
               }
             },
             {
@@ -994,6 +1119,35 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Part 2: Kinds of RL Algorithms",
+                  "description": "<- Rendered from https://github.com/openai/spinningup/blob/038665d62d569055401d91856abb287263096178/docs/spinningup/rl_intro2.rst",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 156606738,
+                    "language": "Python",
+                    "last_commit": "2024-08-05T03:30:30Z",
+                    "owner": "openai",
+                    "repo": "spinningup",
+                    "stars": 11911
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "RL/DRL algorithm classification from OpenAI Spinning Up"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RL/DRL Algorithms"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "RLlib (part of Ray): ray-project/ray",
               "description": "(readthedocs (rllib)) (Ray total) (also covers multiagent)",
@@ -1002,10 +1156,10 @@
                 "archived": false,
                 "id": 71932349,
                 "language": "Python",
-                "last_commit": "2026-08-24T00:04:15Z",
+                "last_commit": "2026-08-24T12:25:44Z",
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 43587
+                "stars": 43598
               }
             },
             {
@@ -1020,7 +1174,7 @@
                 "last_commit": "2026-08-14T19:19:50Z",
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19643
+                "stars": 19642
               }
             },
             {
@@ -1035,7 +1189,7 @@
                 "last_commit": "2026-08-17T16:40:34Z",
                 "owner": "DLR-RM",
                 "repo": "stable-baselines3",
-                "stars": 13717
+                "stars": 13718
               }
             },
             {
@@ -1050,7 +1204,7 @@
                 "last_commit": "2026-04-03T21:34:47Z",
                 "owner": "thu-ml",
                 "repo": "tianshou",
-                "stars": 10937
+                "stars": 10941
               }
             },
             {
@@ -1080,7 +1234,7 @@
                 "last_commit": "2026-04-20T10:57:15Z",
                 "owner": "vwxyzjn",
                 "repo": "cleanrl",
-                "stars": 10312
+                "stars": 10314
               }
             },
             {
@@ -1156,7 +1310,7 @@
                 "last_commit": "2026-08-01T23:03:52Z",
                 "owner": "google-deepmind",
                 "repo": "acme",
-                "stars": 4045
+                "stars": 4047
               }
             },
             {
@@ -1168,10 +1322,10 @@
                 "archived": false,
                 "id": 454479855,
                 "language": "Python",
-                "last_commit": "2026-08-23T18:05:06Z",
+                "last_commit": "2026-08-24T14:11:59Z",
                 "owner": "pytorch",
                 "repo": "rl",
-                "stars": 3532
+                "stars": 3533
               }
             },
             {
@@ -1276,7 +1430,7 @@
                 "last_commit": "2026-08-18T15:44:51Z",
                 "owner": "leggedrobotics",
                 "repo": "rsl_rl",
-                "stars": 2909
+                "stars": 2912
               }
             },
             {
@@ -1363,7 +1517,7 @@
                 "archived": false,
                 "id": 83158675,
                 "language": "Python",
-                "last_commit": "2026-08-23T15:53:37Z",
+                "last_commit": "2026-08-24T08:54:02Z",
                 "owner": "MushroomRL",
                 "repo": "mushroom-rl",
                 "stars": 943
@@ -1484,10 +1638,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-23T18:16:01Z",
+                "last_commit": "2026-08-24T14:22:47Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197377
+                "stars": 197385
               }
             },
             {
@@ -1499,10 +1653,10 @@
                 "archived": false,
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-24T02:43:49Z",
+                "last_commit": "2026-08-24T14:30:18Z",
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102563
+                "stars": 102575
               }
             },
             {
@@ -1517,7 +1671,7 @@
                 "last_commit": "2026-08-21T23:10:41Z",
                 "owner": "keras-team",
                 "repo": "keras",
-                "stars": 64247
+                "stars": 64249
               }
             },
             {
@@ -1529,10 +1683,25 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-24T02:21:11Z",
+                "last_commit": "2026-08-24T14:28:35Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36207
+                "stars": 36209
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "facebookresearch/mbrl-lib",
+              "description": "Library for Model Based RL.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 288181946,
+                "language": "Python",
+                "last_commit": "2024-07-12T20:42:46Z",
+                "owner": "facebookresearch",
+                "repo": "mbrl-lib",
+                "stars": 1064
               }
             },
             {
@@ -1592,7 +1761,7 @@
                 "last_commit": "2024-08-05T03:30:30Z",
                 "owner": "openai",
                 "repo": "spinningup",
-                "stars": 11910
+                "stars": 11911
               }
             },
             {
@@ -1607,7 +1776,7 @@
                 "last_commit": "2021-05-19T23:12:14Z",
                 "owner": "qfettes",
                 "repo": "DeepRL-Tutorials",
-                "stars": 1079
+                "stars": 1078
               }
             }
           ],
@@ -1634,7 +1803,7 @@
                     "last_commit": "2026-08-14T19:19:50Z",
                     "owner": "Unity-Technologies",
                     "repo": "ml-agents",
-                    "stars": 19643
+                    "stars": 19642
                   }
                 },
                 {
@@ -1649,7 +1818,7 @@
                     "last_commit": "2026-08-19T16:01:04Z",
                     "owner": "Farama-Foundation",
                     "repo": "Gymnasium",
-                    "stars": 12384
+                    "stars": 12391
                   }
                 },
                 {
@@ -1664,7 +1833,7 @@
                     "last_commit": "2024-07-23T16:54:42Z",
                     "owner": "google-deepmind",
                     "repo": "pysc2",
-                    "stars": 8308
+                    "stars": 8307
                   }
                 },
                 {
@@ -1724,7 +1893,7 @@
                     "last_commit": "2025-05-29T08:02:13Z",
                     "owner": "leggedrobotics",
                     "repo": "legged_gym",
-                    "stars": 3100
+                    "stars": 3101
                   }
                 },
                 {
@@ -1814,7 +1983,7 @@
                     "last_commit": "2024-06-16T22:12:27Z",
                     "owner": "Improbable-AI",
                     "repo": "walk-these-ways",
-                    "stars": 1436
+                    "stars": 1437
                   }
                 },
                 {
@@ -1859,7 +2028,7 @@
                     "last_commit": "2026-08-02T17:38:14Z",
                     "owner": "Farama-Foundation",
                     "repo": "Gymnasium-Robotics",
-                    "stars": 959
+                    "stars": 960
                   }
                 },
                 {
@@ -1949,7 +2118,7 @@
                     "last_commit": "2024-07-07T15:52:18Z",
                     "owner": "koulanurag",
                     "repo": "ma-gym",
-                    "stars": 634
+                    "stars": 633
                   }
                 },
                 {
@@ -2321,7 +2490,7 @@
                         "last_commit": "2026-04-08T15:19:36Z",
                         "owner": "citylearn-project",
                         "repo": "CityLearn",
-                        "stars": 630
+                        "stars": 631
                       }
                     },
                     {
@@ -2446,7 +2615,7 @@
                 "last_commit": "2026-08-19T16:01:04Z",
                 "owner": "Farama-Foundation",
                 "repo": "Gymnasium",
-                "stars": 12384
+                "stars": 12391
               }
             },
             {
@@ -2470,6 +2639,67 @@
                   }
                 }
               ]
+            },
+            {
+              "node_type": "item",
+              "title": "Farama-Foundation/PettingZoo",
+              "description": "(https://pettingzoo.farama.org)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Unity-Technologies/ml-agents",
+                  "description": "(Environments, Algorithms) (includes design of environments)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 102904613,
+                    "language": "C#",
+                    "last_commit": "2026-08-14T19:19:50Z",
+                    "owner": "Unity-Technologies",
+                    "repo": "ml-agents",
+                    "stars": 19642
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LucasAlegre/sumo-rl",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 161216111,
+                    "language": "Python",
+                    "last_commit": "2026-03-08T13:23:47Z",
+                    "owner": "LucasAlegre",
+                    "repo": "sumo-rl",
+                    "stars": 1071
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Farama-Foundation/MAgent2",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 532978667,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T21:56:31Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "MAgent2",
+                    "stars": 340
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 235012937,
+                "language": "Python",
+                "last_commit": "2026-08-13T18:03:26Z",
+                "owner": "Farama-Foundation",
+                "repo": "PettingZoo",
+                "stars": 3496
+              }
             }
           ],
           "description": "Multi-agent:",
@@ -2505,7 +2735,7 @@
                 "last_commit": "2026-08-04T23:48:43Z",
                 "owner": "Farama-Foundation",
                 "repo": "Minari",
-                "stars": 1289
+                "stars": 1290
               }
             },
             {
@@ -2521,6 +2751,36 @@
                 "owner": "google-research",
                 "repo": "rlds",
                 "stars": 493
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "google-research/robel",
+              "description": "(https://sites.google.com/view/roboticsbenchmarks)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 205263667,
+                "language": "Python",
+                "last_commit": "2020-11-05T12:13:45Z",
+                "owner": "google-research",
+                "repo": "robel",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rlworkgroup/garage",
+              "description": "\"A toolkit for reproducible reinforcement learning research.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136846372,
+                "language": "Python",
+                "last_commit": "2023-05-04T14:44:22Z",
+                "owner": "rlworkgroup",
+                "repo": "garage",
+                "stars": 2126
               }
             },
             {
@@ -2581,6 +2841,21 @@
                 "owner": "HYDesmondLiu",
                 "repo": "B2RL",
                 "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deepmind/bsuite",
+              "description": "\"collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200259166,
+                "language": "Python",
+                "last_commit": "2026-08-06T14:53:23Z",
+                "owner": "google-deepmind",
+                "repo": "bsuite",
+                "stars": 1555
               }
             }
           ],
@@ -2689,7 +2964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:49:20.150Z",
+    "last_updated": "2026-08-24T14:31:39.955Z",
     "original_repository": "jgvictores/awesome-deep-reinforcement-learning",
     "original_repository_id": 123633051,
     "original_repository_sha": "bab986ced942b1afb753bef6f02c0f2f0872a424",
