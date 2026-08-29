@@ -12,12 +12,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Setup and customize deep learning environment in seconds.",
+                "homepage": "http://ufoym.com/deepo",
                 "id": 108539084,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-25T15:09:36Z",
+                "open_issues": 0,
                 "owner": "ufoym",
                 "repo": "deepo",
-                "stars": 6276
+                "stars": 6276,
+                "topics": [
+                  "caffe",
+                  "caffe2",
+                  "chainer",
+                  "cntk",
+                  "deep-learning",
+                  "docker-image",
+                  "dockerfile-generator",
+                  "jupyter",
+                  "keras",
+                  "lasagne",
+                  "mxnet",
+                  "onnx",
+                  "pytorch",
+                  "sonnet",
+                  "tensorflow",
+                  "theano",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -28,12 +51,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
+                "homepage": "https://github.com/ysh329/deep-learning-model-convertor",
                 "id": 88418646,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-26T14:22:18Z",
+                "open_issues": 2,
                 "owner": "ysh329",
                 "repo": "deep-learning-model-convertor",
-                "stars": 3236
+                "stars": 3236,
+                "topics": [
+                  "awesome-list",
+                  "caffe",
+                  "caffe2",
+                  "convertor",
+                  "deep-learning",
+                  "deep-learning-framework",
+                  "keras",
+                  "model",
+                  "model-convertor",
+                  "mxnet",
+                  "neural-network",
+                  "pytorch",
+                  "tensorflow",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -44,12 +87,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list for Deep Reinforcement Learning (DRL): software frameworks, models, datasets, gyms, baselines...",
+                "homepage": null,
                 "id": 123633051,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-25T10:32:31Z",
+                "open_issues": 2,
                 "owner": "jgvictores",
                 "repo": "awesome-deep-reinforcement-learning",
-                "stars": 206
+                "stars": 206,
+                "topics": [
+                  "awesome-list",
+                  "deep-neural-networks",
+                  "deep-reinforcement-learning",
+                  "drl",
+                  "drl-frameworks",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -60,12 +115,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Source Machine Learning Framework for Everyone",
+                "homepage": "https://tensorflow.org",
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-28T13:14:04Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:52:27Z",
+                "open_issues": 2961,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197762
+                "stars": 197767,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "machine-learning",
+                  "ml",
+                  "neural-network",
+                  "python",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -76,12 +145,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+                "homepage": "https://pytorch.org",
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-28T13:11:01Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:45:59Z",
+                "open_issues": 17420,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102645
+                "stars": 102654,
+                "topics": [
+                  "autograd",
+                  "deep-learning",
+                  "gpu",
+                  "machine-learning",
+                  "neural-network",
+                  "numpy",
+                  "python",
+                  "tensor"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -97,24 +180,52 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Learning for humans",
+                    "homepage": "http://keras.io/",
                     "id": 33015583,
                     "language": "Python",
-                    "last_commit": "2026-08-26T22:12:59Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T23:44:04Z",
+                    "open_issues": 232,
                     "owner": "keras-team",
                     "repo": "keras",
-                    "stars": 64261
+                    "stars": 64265,
+                    "topics": [
+                      "data-science",
+                      "deep-learning",
+                      "jax",
+                      "machine-learning",
+                      "neural-networks",
+                      "python",
+                      "pytorch",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning for humans",
+                "homepage": "http://keras.io/",
                 "id": 33015583,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:12:59Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:44:04Z",
+                "open_issues": 232,
                 "owner": "keras-team",
                 "repo": "keras",
-                "stars": 64261
+                "stars": 64265,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "jax",
+                  "machine-learning",
+                  "neural-networks",
+                  "python",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -125,12 +236,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+                "homepage": "http://www.paddlepaddle.org/",
                 "id": 65711522,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T07:04:41Z",
+                "open_issues": 1507,
                 "owner": "PaddlePaddle",
                 "repo": "Paddle",
-                "stars": 24062
+                "stars": 24062,
+                "topics": [
+                  "deep-learning",
+                  "distributed-training",
+                  "efficiency",
+                  "machine-learning",
+                  "neural-network",
+                  "paddlepaddle",
+                  "python",
+                  "scalability"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -141,12 +266,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow-based neural network library",
+                "homepage": "https://sonnet.dev/",
                 "id": 87067212,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-07T22:31:42Z",
+                "open_issues": 43,
                 "owner": "google-deepmind",
                 "repo": "sonnet",
-                "stars": 9961
+                "stars": 9960,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-networks",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -157,12 +293,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility",
+                "homepage": null,
                 "id": 48593532,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-06T00:30:36Z",
+                "open_issues": 14,
                 "owner": "tensorpack",
                 "repo": "tensorpack",
-                "stars": 6286
+                "stars": 6286,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-networks",
+                  "reinforcement-learning",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -173,12 +320,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "header only, dependency-free deep learning framework in C++14",
+                "homepage": "http://tiny-dnn.readthedocs.io",
                 "id": 7205740,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-17T02:48:05Z",
+                "open_issues": 297,
                 "owner": "tiny-dnn",
                 "repo": "tiny-dnn",
-                "stars": 6030
+                "stars": 6030,
+                "topics": [
+                  "c-plus-plus",
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-network"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -194,24 +351,54 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "ChainerCV: a Library for Deep Learning in Computer Vision",
+                    "homepage": null,
                     "id": 81784084,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-07-01T16:54:50Z",
+                    "open_issues": 58,
                     "owner": "chainer",
                     "repo": "chainercv",
-                    "stars": 1481
+                    "stars": 1481,
+                    "topics": [
+                      "chainer",
+                      "chainercv",
+                      "computer-vision",
+                      "cupy",
+                      "deep-learning",
+                      "neural-network",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible framework of neural networks for deep learning",
+                "homepage": "https://chainer.org",
                 "id": 36914478,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-28T17:18:20Z",
+                "open_issues": 15,
                 "owner": "chainer",
                 "repo": "chainer",
-                "stars": 5924
+                "stars": 5924,
+                "topics": [
+                  "chainer",
+                  "cuda",
+                  "cudnn",
+                  "cupy",
+                  "deep-learning",
+                  "gpu",
+                  "machine-learning",
+                  "neural-network",
+                  "neural-networks",
+                  "numpy",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -222,12 +409,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.",
+                "homepage": "https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html",
                 "id": 135768037,
                 "language": "C++",
-                "last_commit": "2026-08-28T09:58:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:32:01Z",
+                "open_issues": 218,
                 "owner": "NVIDIA",
                 "repo": "DALI",
-                "stars": 5737
+                "stars": 5738,
+                "topics": [
+                  "audio-processing",
+                  "data-augmentation",
+                  "data-processing",
+                  "deep-learning",
+                  "fast-data-pipeline",
+                  "gpu",
+                  "gpu-tensorflow",
+                  "image-augmentation",
+                  "image-processing",
+                  "machine-learning",
+                  "mxnet",
+                  "neural-network",
+                  "paddle",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -238,12 +446,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++ standalone library for machine learning",
+                "homepage": "https://fl.readthedocs.io/en/latest/",
                 "id": 161376600,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-22T00:07:38Z",
+                "open_issues": 126,
                 "owner": "flashlight",
                 "repo": "flashlight",
-                "stars": 5467
+                "stars": 5467,
+                "topics": [
+                  "autograd",
+                  "cpp",
+                  "deep-learning",
+                  "flashlight",
+                  "machine-learning",
+                  "ml",
+                  "neural-network"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -254,12 +475,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.",
+                "homepage": "https://pytorch-ignite.ai",
                 "id": 111835796,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T04:51:54Z",
+                "open_issues": 188,
                 "owner": "pytorch",
                 "repo": "ignite",
-                "stars": 4779
+                "stars": 4779,
+                "topics": [
+                  "closember",
+                  "deep-learning",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "metrics",
+                  "neural-network",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -270,12 +505,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaScript deep learning and reinforcement learning library.",
+                "homepage": "http://janhuenermann.com/projects/learning-to-drive",
                 "id": 68553109,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-10T12:55:04Z",
+                "open_issues": 6,
                 "owner": "janhuenermann",
                 "repo": "neurojs",
-                "stars": 4371
+                "stars": 4371,
+                "topics": [
+                  "deep-learning",
+                  "javascript",
+                  "machine-learning",
+                  "neural-network",
+                  "reinforcement-learning",
+                  "self-driving-car"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -286,12 +533,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "oneAPI Deep Neural Network Library (oneDNN)",
+                "homepage": "http://uxlfoundation.github.io/oneDNN/",
                 "id": 58414589,
                 "language": "C++",
-                "last_commit": "2026-08-28T13:06:55Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:37:21Z",
+                "open_issues": 200,
                 "owner": "uxlfoundation",
                 "repo": "oneDNN",
-                "stars": 4044
+                "stars": 4044,
+                "topics": [
+                  "aarch64",
+                  "amx",
+                  "avx512",
+                  "bfloat16",
+                  "cpp",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "library",
+                  "oneapi",
+                  "onednn",
+                  "openmp",
+                  "performance",
+                  "sycl",
+                  "tbb",
+                  "vnni",
+                  "x64",
+                  "x86-64",
+                  "xe-architecture"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -302,12 +573,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.",
+                "homepage": "https://cg.cs.tsinghua.edu.cn/jittor/",
                 "id": 248248401,
                 "language": "Python",
-                "last_commit": "2026-08-28T13:14:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:21:36Z",
+                "open_issues": 272,
                 "owner": "Jittor",
                 "repo": "jittor",
-                "stars": 3230
+                "stars": 3230,
+                "topics": [
+                  "cuda",
+                  "deep-learning",
+                  "gpu",
+                  "jittor",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -318,12 +600,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Neural Network Libraries",
+                "homepage": null,
                 "id": 95395370,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T10:07:47Z",
+                "open_issues": 0,
                 "owner": "sony",
                 "repo": "nnabla",
-                "stars": 2774
+                "stars": 2774,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -334,12 +621,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning",
+                "homepage": "https://transmogrif.ai",
                 "id": 109289451,
                 "language": "Scala",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-02T18:03:07Z",
+                "open_issues": 46,
                 "owner": "salesforce",
                 "repo": "TransmogrifAI",
-                "stars": 2277
+                "stars": 2277,
+                "topics": [
+                  "ai",
+                  "automated-machine-learning",
+                  "automl",
+                  "dsl",
+                  "einstein",
+                  "estimators",
+                  "feature-engineering",
+                  "features",
+                  "machine-learning",
+                  "ml",
+                  "pipelines",
+                  "salesforce",
+                  "scala",
+                  "spark",
+                  "sparkml",
+                  "structured-data",
+                  "transformations",
+                  "transformers",
+                  "transmogrification",
+                  "transmogrify"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -355,12 +668,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the code for \"Amazon's MXNet Deep Learning Framework\" By Siraj Raval on Youtube",
+                    "homepage": null,
                     "id": 123341284,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2018-02-28T20:56:50Z",
+                    "open_issues": 1,
                     "owner": "llSourcell",
                     "repo": "MXNet",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -378,12 +696,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch",
+                    "homepage": null,
                     "id": 36027077,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2023-10-24T17:15:27Z",
+                    "open_issues": 111,
                     "owner": "karpathy",
                     "repo": "char-rnn",
-                    "stars": 12097
+                    "stars": 12097,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -401,12 +724,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Learning Tutorial notes and code. See the wiki for more info.",
+                    "homepage": "http://deeplearning.net/tutorial",
                     "id": 462713,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-09-30T13:03:49Z",
+                    "open_issues": 22,
                     "owner": "lisa-lab",
                     "repo": "DeepLearningTutorials",
-                    "stars": 4149
+                    "stars": 4149,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -428,12 +756,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
+                    "homepage": null,
                     "id": 105919803,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-11-20T09:13:34Z",
+                    "open_issues": 331,
                     "owner": "facebookresearch",
                     "repo": "Detectron",
-                    "stars": 26359
+                    "stars": 26358,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -444,12 +777,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fully Convolutional Instance-aware Semantic Segmentation",
+                    "homepage": null,
                     "id": 70131524,
                     "language": "Cuda",
+                    "license": "MIT",
                     "last_commit": "2021-09-27T02:16:42Z",
+                    "open_issues": 92,
                     "owner": "msracver",
                     "repo": "FCIS",
-                    "stars": 1561
+                    "stars": 1561,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -467,12 +805,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices",
+                    "homepage": null,
                     "id": 65791375,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-10-23T23:26:26Z",
+                    "open_issues": 642,
                     "owner": "thtrieu",
                     "repo": "darkflow",
-                    "stars": 6139
+                    "stars": 6139,
+                    "topics": [
+                      "convolutional-networks",
+                      "convolutional-neural-networks",
+                      "darknet",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "graph",
+                      "image-processing",
+                      "machine-learning",
+                      "mobile-development",
+                      "object-detection",
+                      "real-time",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -483,12 +839,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "This fork of BVLC/Caffe is dedicated to improving performance of this deep learning framework when running on CPU, in particular Intel® Xeon processors.",
+                    "homepage": null,
                     "id": 61870803,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-08-04T22:52:36Z",
+                    "open_issues": 75,
                     "owner": "intel",
                     "repo": "caffe",
-                    "stars": 848
+                    "stars": 848,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -506,12 +867,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award).",
+                    "homepage": null,
                     "id": 66501243,
                     "language": "Lua",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-01-09T13:15:40Z",
+                    "open_issues": 30,
                     "owner": "liuzhuang13",
                     "repo": "DenseNet",
-                    "stars": 4869
+                    "stars": 4869,
+                    "topics": [
+                      "deep-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -529,12 +897,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Must-read papers on graph neural networks (GNN)",
+                    "homepage": null,
                     "id": 162940724,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-12-20T03:33:14Z",
+                    "open_issues": 15,
                     "owner": "thunlp",
                     "repo": "GNNPapers",
-                    "stars": 16832
+                    "stars": 16832,
+                    "topics": [
+                      "gnn",
+                      "paper-list"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -545,12 +921,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python package built to ease deep learning on graph, on top of existing DL frameworks.",
+                    "homepage": "http://dgl.ai",
                     "id": 130375797,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-07-31T23:53:10Z",
+                    "open_issues": 608,
                     "owner": "dmlc",
                     "repo": "dgl",
-                    "stars": 14281
+                    "stars": 14281,
+                    "topics": [
+                      "deep-learning",
+                      "graph-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -561,12 +945,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of network embedding techniques.",
+                    "homepage": null,
                     "id": 74880098,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-12-08T09:34:45Z",
+                    "open_issues": 4,
                     "owner": "chihming",
                     "repo": "awesome-network-embedding",
-                    "stars": 2627
+                    "stars": 2627,
+                    "topics": [
+                      "graph-embeddings",
+                      "knowledge-graph",
+                      "network-embedding",
+                      "representation-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -577,12 +971,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow GNN is a library to build Graph Neural Networks on the TensorFlow platform.",
+                    "homepage": null,
                     "id": 394772335,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-31T09:30:11Z",
+                    "open_issues": 42,
                     "owner": "tensorflow",
                     "repo": "gnn",
-                    "stars": 1540
+                    "stars": 1540,
+                    "topics": [
+                      "deep-learning",
+                      "gnn",
+                      "machine-learning",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -593,12 +997,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A PyTorch implementation of \"Signed Graph Convolutional Network\" (ICDM 2018).",
+                    "homepage": null,
                     "id": 160753639,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-03-18T12:08:47Z",
+                    "open_issues": 1,
                     "owner": "benedekrozemberczki",
                     "repo": "SGCN",
-                    "stars": 277
+                    "stars": 277,
+                    "topics": [
+                      "deep-learning",
+                      "deepwalk",
+                      "gcn",
+                      "gpt2",
+                      "gpt3",
+                      "graph-attention",
+                      "graph-convolution",
+                      "graph-embedding",
+                      "graph-neural-networks",
+                      "graphsage",
+                      "machine-learning",
+                      "network-embedding",
+                      "neural-network",
+                      "node-classification",
+                      "node2vec",
+                      "pytorch",
+                      "pytorch-geometric",
+                      "sgcn",
+                      "signed-network",
+                      "transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -616,12 +1046,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Here I will share the code from the lectures of the course: Generative Image Modelling with Deep Neural Networks taught in the Summer Term 2017 at the Graduate School for Neural Information Processing, University of Tuebingen.",
+                    "homepage": "http://www.neuroschool-tuebingen.de/courses/summer-term/master-neural-inf-process/?tx_neuroscience_pi1%5Bcourse%5D=16&tx_neuroscience_pi1%5Baction%5D=show&tx_neuroscience_pi1%5Bcontroller%5D=Course&cHash=35021e5319b74ca3526da9435284c552",
                     "id": 88974912,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2017-08-20T12:51:31Z",
+                    "open_issues": 0,
                     "owner": "leongatys",
                     "repo": "GenerativeImageModellingWithDNNs",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -632,12 +1067,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 38377423,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2022-10-19T06:43:24Z",
+                    "open_issues": 8,
                     "owner": "google",
                     "repo": "deepdream",
-                    "stars": 13231
+                    "stars": 13231,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -653,12 +1093,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code and data for paper \"Deep Photo Style Transfer\": https://arxiv.org/abs/1703.07511 ",
+                        "homepage": null,
                         "id": 85786010,
                         "language": "Matlab",
+                        "license": null,
                         "last_commit": "2021-08-02T01:07:44Z",
+                        "open_issues": 34,
                         "owner": "luanfujun",
                         "repo": "deep-photo-styletransfer",
-                        "stars": 9989
+                        "stars": 9989,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -669,12 +1114,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code and data for paper \"Deep Painterly Harmonization\": https://arxiv.org/abs/1804.03189",
+                        "homepage": null,
                         "id": 128821674,
                         "language": "Cuda",
+                        "license": null,
                         "last_commit": "2021-08-02T02:46:03Z",
+                        "open_issues": 34,
                         "owner": "luanfujun",
                         "repo": "deep-painterly-harmonization",
-                        "stars": 6042
+                        "stars": 6042,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -685,12 +1135,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Implementation of  \"A Neural Algorithm of Artistic Style\" by Tensorflow",
+                        "homepage": null,
                         "id": 47232918,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-11-27T11:53:35Z",
+                        "open_issues": 5,
                         "owner": "ckmarkoh",
                         "repo": "neuralart_tensorflow",
-                        "stars": 492
+                        "stars": 492,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     }
@@ -708,12 +1163,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A list of all named GANs!",
+                        "homepage": null,
                         "id": 88285322,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-10-06T18:30:38Z",
+                        "open_issues": 39,
                         "owner": "hindupuravinash",
                         "repo": "the-gan-zoo",
-                        "stars": 14692
+                        "stars": 14692,
+                        "topics": [
+                          "gan",
+                          "generative-adversarial-network",
+                          "machine-learning"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -724,12 +1188,29 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.",
+                        "homepage": null,
                         "id": 86721514,
                         "language": "Lua",
+                        "license": "NOASSERTION",
                         "last_commit": "2023-09-12T19:48:53Z",
+                        "open_issues": 59,
                         "owner": "junyanz",
                         "repo": "CycleGAN",
-                        "stars": 12870
+                        "stars": 12870,
+                        "topics": [
+                          "computer-graphics",
+                          "computer-vision",
+                          "cyclegan",
+                          "deep-learning",
+                          "gan",
+                          "gans",
+                          "generative-adversarial-network",
+                          "image-generation",
+                          "image-manipulation",
+                          "pix2pix",
+                          "torch"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -740,12 +1221,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Progressive Growing of GANs for Improved Quality, Stability, and Variation",
+                        "homepage": "http://research.nvidia.com/publication/2017-10_Progressive-Growing-of",
                         "id": 108524017,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2022-02-17T12:44:14Z",
+                        "open_issues": 11,
                         "owner": "tkarras",
                         "repo": "progressive_growing_of_gans",
-                        "stars": 6179
+                        "stars": 6179,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -756,12 +1242,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Pytorch implementation of LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS (BigGAN)",
+                        "homepage": null,
                         "id": 157399166,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2019-02-23T08:25:36Z",
+                        "open_issues": 22,
                         "owner": "sxhxliang",
                         "repo": "BigGAN-pytorch",
-                        "stars": 504
+                        "stars": 504,
+                        "topics": [
+                          "biggan",
+                          "gan",
+                          "pytorch"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -772,12 +1267,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "(WIP) Implementation of Creative Adversarial Networks https://arxiv.org/pdf/1706.07068.pdf",
+                        "homepage": null,
                         "id": 103999337,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2019-10-20T21:40:09Z",
+                        "open_issues": 18,
                         "owner": "mlberkeley",
                         "repo": "Creative-Adversarial-Networks",
-                        "stars": 220
+                        "stars": 220,
+                        "topics": [
+                          "art",
+                          "creative-adversarial-networks",
+                          "gan",
+                          "generative-adversarial-network",
+                          "wip"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     }
@@ -795,12 +1301,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "FFTNet vocoder implementation",
+                        "homepage": null,
                         "id": 138598438,
                         "language": "Jupyter Notebook",
+                        "license": "MPL-2.0",
                         "last_commit": "2018-09-28T17:33:52Z",
+                        "open_issues": 1,
                         "owner": "erogol",
                         "repo": "FFTNet",
-                        "stars": 81
+                        "stars": 81,
+                        "topics": [
+                          "deep-learning",
+                          "fftnet",
+                          "pytorch",
+                          "text2speech",
+                          "vocoder"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     }
@@ -825,12 +1342,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 110412224,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2017-11-12T17:49:36Z",
+                        "open_issues": 0,
                         "owner": "Puayny",
                         "repo": "Autoencoder-image-similarity",
-                        "stars": 14
+                        "stars": 14,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     }
@@ -855,12 +1377,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A topic-centric list of HQ open datasets.",
+                "homepage": "https://awesomedataworld.slack.com",
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-27T22:41:18Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:22:22Z",
+                "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78688
+                "stars": 78694,
+                "topics": [
+                  "aaron-swartz",
+                  "awesome-public-datasets",
+                  "datasets",
+                  "opendata"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -873,12 +1405,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for Kuzushiji-MNIST, Kuzushiji-49, and Kuzushiji-Kanji",
+                    "homepage": null,
                     "id": 152698987,
                     "language": "Python",
+                    "license": "CC-BY-SA-4.0",
                     "last_commit": "2024-05-31T13:10:09Z",
+                    "open_issues": 16,
                     "owner": "rois-codh",
                     "repo": "kmnist",
-                    "stars": 758
+                    "stars": 758,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -896,12 +1433,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Documentation on how to access and use the Quick, Draw! Dataset.",
+                    "homepage": "https://quickdraw.withgoogle.com/data",
                     "id": 90778969,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2025-03-11T00:12:28Z",
+                    "open_issues": 32,
                     "owner": "googlecreativelab",
                     "repo": "quickdraw-dataset",
-                    "stars": 6801
+                    "stars": 6801,
+                    "topics": [
+                      "dataset",
+                      "quickdraw-dataset"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -912,12 +1457,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A graspable object dataset constructed with the iCub humanoid robot's camera",
+                    "homepage": null,
                     "id": 120915707,
                     "language": "TeX",
+                    "license": null,
                     "last_commit": "2018-02-23T10:55:44Z",
+                    "open_issues": 0,
                     "owner": "muratkrty",
                     "repo": "iCub-camera-dataset",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -940,12 +1490,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Open source release of the evaluation benchmark suite described in  \"Realistic Evaluation of Deep Semi-Supervised Learning Algorithms\"",
+                "homepage": null,
                 "id": 130418240,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-07-14T18:10:48Z",
+                "open_issues": 8,
                 "owner": "brain-research",
                 "repo": "realistic-ssl-evaluation",
-                "stars": 460
+                "stars": 460,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             }
@@ -963,12 +1518,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning for humans",
+                "homepage": "http://keras.io/",
                 "id": 33015583,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:12:59Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:44:04Z",
+                "open_issues": 232,
                 "owner": "keras-team",
                 "repo": "keras",
-                "stars": 64261
+                "stars": 64265,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "jax",
+                  "machine-learning",
+                  "neural-networks",
+                  "python",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -984,12 +1553,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VGG16 models for CIFAR-10 and CIFAR-100 using Keras",
+                    "homepage": null,
                     "id": 92590423,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-10-14T06:10:01Z",
+                    "open_issues": 1,
                     "owner": "geifmany",
                     "repo": "cifar-vgg",
-                    "stars": 226
+                    "stars": 226,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -1007,12 +1581,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Learning for humans",
+                    "homepage": "http://keras.io/",
                     "id": 33015583,
                     "language": "Python",
-                    "last_commit": "2026-08-26T22:12:59Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T23:44:04Z",
+                    "open_issues": 232,
                     "owner": "keras-team",
                     "repo": "keras",
-                    "stars": 64261
+                    "stars": 64265,
+                    "topics": [
+                      "data-science",
+                      "deep-learning",
+                      "jax",
+                      "machine-learning",
+                      "neural-networks",
+                      "python",
+                      "pytorch",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -1032,12 +1620,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transfer Learning on the CIFAR-100 dataset. ",
+                "homepage": null,
                 "id": 84136212,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-03-14T01:36:00Z",
+                "open_issues": 0,
                 "owner": "mluogh",
                 "repo": "transfer-learning",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "deep-neural-networks",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1053,12 +1650,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python toolbox for performing gradient-free optimization",
+                    "homepage": "https://facebookresearch.github.io/nevergrad/",
                     "id": 158468845,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-24T21:41:13Z",
+                    "open_issues": 141,
                     "owner": "facebookresearch",
                     "repo": "nevergrad",
-                    "stars": 4204
+                    "stars": 4204,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -1078,12 +1680,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A game theoretic approach to explain the output of any machine learning model.",
+                "homepage": "https://shap.readthedocs.io",
                 "id": 74505259,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-27T20:49:55Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:35:21Z",
+                "open_issues": 1004,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25708
+                "stars": 25709,
+                "topics": [
+                  "deep-learning",
+                  "explainability",
+                  "gradient-boosting",
+                  "interpretability",
+                  "machine-learning",
+                  "shap",
+                  "shapley"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1094,12 +1709,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tensorboard for pytorch (and chainer, mxnet, numpy, ...)",
+                "homepage": "https://tensorboardx.readthedocs.io/en/latest/tensorboard.html",
                 "id": 94218531,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-14T16:48:08Z",
+                "open_issues": 85,
                 "owner": "lanpa",
                 "repo": "tensorboardX",
-                "stars": 7998
+                "stars": 7999,
+                "topics": [
+                  "machine-learning",
+                  "numpy",
+                  "pytorch",
+                  "tensorboard",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1110,12 +1736,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for visualizing the loss landscape of neural nets",
+                "homepage": null,
                 "id": 125461465,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-05T19:28:36Z",
+                "open_issues": 30,
                 "owner": "tomgoldstein",
                 "repo": "loss-landscape",
-                "stars": 3199
+                "stars": 3199,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1126,12 +1757,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive convnet features visualization for Keras",
+                "homepage": "https://keplr-io.github.io/quiver/",
                 "id": 73647442,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-09-04T00:19:41Z",
+                "open_issues": 32,
                 "owner": "keplr-io",
                 "repo": "quiver",
-                "stars": 1784
+                "stars": 1784,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1142,12 +1782,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XAI - An eXplainability toolbox for machine learning",
+                "homepage": "https://ethical.institute/principles.html#commitment-3",
                 "id": 165302201,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-29T12:57:47Z",
+                "open_issues": 1,
                 "owner": "EthicalML",
                 "repo": "xai",
-                "stars": 1260
+                "stars": 1260,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "bias",
+                  "bias-evaluation",
+                  "downsampling",
+                  "evaluation",
+                  "explainability",
+                  "explainable-ai",
+                  "explainable-ml",
+                  "feature-importance",
+                  "imbalance",
+                  "interpretability",
+                  "machine-learning",
+                  "machine-learning-explainability",
+                  "ml",
+                  "upsampling",
+                  "xai",
+                  "xai-library"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1158,12 +1822,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualizer for Deep Neural Networks",
+                "homepage": null,
                 "id": 87864500,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-11-22T02:30:12Z",
+                "open_issues": 3,
                 "owner": "zhoubolei",
                 "repo": "cnnvisualizer",
-                "stars": 294
+                "stars": 294,
+                "topics": [
+                  "cnn",
+                  "cnn-features",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             }
@@ -1189,12 +1862,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An educational resource to help anyone learn deep reinforcement learning.",
+                    "homepage": "https://spinningup.openai.com/",
                     "id": 156606738,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-08-05T03:30:30Z",
+                    "open_issues": 253,
                     "owner": "openai",
                     "repo": "spinningup",
-                    "stars": 11919
+                    "stars": 11919,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -1217,12 +1895,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+                "homepage": "https://ray.io",
                 "id": 71932349,
                 "language": "Python",
-                "last_commit": "2026-08-28T05:06:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:52:53Z",
+                "open_issues": 3536,
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 43636
+                "stars": 43639,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "deployment",
+                  "distributed",
+                  "hyperparameter-optimization",
+                  "hyperparameter-search",
+                  "large-language-models",
+                  "llm",
+                  "llm-inference",
+                  "llm-serving",
+                  "machine-learning",
+                  "optimization",
+                  "parallel",
+                  "python",
+                  "pytorch",
+                  "ray",
+                  "reinforcement-learning",
+                  "rllib",
+                  "serving",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1233,12 +1937,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.",
+                "homepage": "https://unity.com/products/machine-learning-agents",
                 "id": 102904613,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T08:41:37Z",
+                "open_issues": 21,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19651
+                "stars": 19653,
+                "topics": [
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "machine-learning",
+                  "neural-networks",
+                  "reinforcement-learning",
+                  "unity",
+                  "unity3d"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1249,12 +1966,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
+                "homepage": "https://stable-baselines3.readthedocs.io",
                 "id": 261372860,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T16:40:34Z",
+                "open_issues": 85,
                 "owner": "DLR-RM",
                 "repo": "stable-baselines3",
-                "stars": 13733
+                "stars": 13734,
+                "topics": [
+                  "baselines",
+                  "gsde",
+                  "gym",
+                  "machine-learning",
+                  "openai",
+                  "python",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "reinforcement-learning-algorithms",
+                  "robotics",
+                  "sb3",
+                  "sde",
+                  "stable-baselines",
+                  "toolbox"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1265,12 +2002,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elegant PyTorch deep reinforcement learning library.",
+                "homepage": "https://tianshou.org",
                 "id": 129815042,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-03T21:34:47Z",
+                "open_issues": 137,
                 "owner": "thu-ml",
                 "repo": "tianshou",
-                "stars": 10945
+                "stars": 10945,
+                "topics": [
+                  "a2c",
+                  "atari",
+                  "bcq",
+                  "cql",
+                  "ddpg",
+                  "double-dqn",
+                  "dqn",
+                  "drl",
+                  "imitation-learning",
+                  "mujoco",
+                  "npg",
+                  "policy-gradient",
+                  "ppo",
+                  "pytorch",
+                  "rl",
+                  "sac",
+                  "td3",
+                  "transferlab",
+                  "trpo"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1281,12 +2043,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. ",
+                "homepage": "https://github.com/google/dopamine",
                 "id": 142422739,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-24T18:11:40Z",
+                "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10900
+                "stars": 10901,
+                "topics": [
+                  "ai",
+                  "google",
+                  "ml",
+                  "rl",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1297,12 +2070,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)",
+                "homepage": "http://docs.cleanrl.dev",
                 "id": 190776339,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-20T10:57:15Z",
+                "open_issues": 110,
                 "owner": "vwxyzjn",
                 "repo": "cleanrl",
-                "stars": 10332
+                "stars": 10334,
+                "topics": [
+                  "a2c",
+                  "actor-critic",
+                  "advantage-actor-critic",
+                  "ale",
+                  "atari",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "gym",
+                  "machine-learning",
+                  "phasic-policy-gradient",
+                  "ppo",
+                  "proximal-policy-optimization",
+                  "python",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "wandb"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1318,24 +2113,52 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Startcraft II  Machine Learning research with DeepMind pysc2 python library .mini-games and agents. ",
+                    "homepage": null,
                     "id": 99917998,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-24T20:17:09Z",
+                    "open_issues": 0,
                     "owner": "SoyGema",
                     "repo": "Startcraft_pysc2_minigames",
-                    "stars": 133
+                    "stars": 133,
+                    "topics": [
+                      "blizzard",
+                      "deepmind",
+                      "machinelearning",
+                      "pysc2",
+                      "pysc2-library",
+                      "pysc2-mini-games",
+                      "python",
+                      "reinforcement-learning",
+                      "starcraft",
+                      "starcraft2"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Reinforcement Learning for Keras.",
+                "homepage": "http://keras-rl.readthedocs.io/",
                 "id": 62458409,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-17T12:33:41Z",
+                "open_issues": 47,
                 "owner": "keras-rl",
                 "repo": "keras-rl",
-                "stars": 5547
+                "stars": 5547,
+                "topics": [
+                  "keras",
+                  "machine-learning",
+                  "neural-networks",
+                  "reinforcement-learning",
+                  "tensorflow",
+                  "theano"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1346,12 +2169,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.",
+                "homepage": null,
                 "id": 198232685,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:34:39Z",
+                "open_issues": 43,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5440
+                "stars": 5441,
+                "topics": [
+                  "cpp",
+                  "games",
+                  "multiagent",
+                  "python",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1362,12 +2196,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaScript deep learning and reinforcement learning library.",
+                "homepage": "http://janhuenermann.com/projects/learning-to-drive",
                 "id": 68553109,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-10T12:55:04Z",
+                "open_issues": 6,
                 "owner": "janhuenermann",
                 "repo": "neurojs",
-                "stars": 4371
+                "stars": 4371,
+                "topics": [
+                  "deep-learning",
+                  "javascript",
+                  "machine-learning",
+                  "neural-network",
+                  "reinforcement-learning",
+                  "self-driving-car"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1378,12 +2224,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of reinforcement learning components and agents",
+                "homepage": null,
                 "id": 260420185,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:52:57Z",
+                "open_issues": 100,
                 "owner": "google-deepmind",
                 "repo": "acme",
-                "stars": 4051
+                "stars": 4051,
+                "topics": [
+                  "agents",
+                  "reinforcement-learning",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1394,12 +2249,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.",
+                "homepage": "https://pytorch.org/rl",
                 "id": 454479855,
                 "language": "Python",
-                "last_commit": "2026-08-28T11:04:00Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:54:21Z",
+                "open_issues": 289,
                 "owner": "pytorch",
                 "repo": "rl",
-                "stars": 3539
+                "stars": 3539,
+                "topics": [
+                  "ai",
+                  "control",
+                  "decision-making",
+                  "distributed-computing",
+                  "machine-learning",
+                  "marl",
+                  "model-based-reinforcement-learning",
+                  "multi-agent-reinforcement-learning",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "rl",
+                  "robotics",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1410,12 +2284,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accelerated deep learning R&D",
+                "homepage": "https://catalyst-team.com",
                 "id": 145385156,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T21:40:01Z",
+                "open_issues": 5,
                 "owner": "catalyst-team",
                 "repo": "catalyst",
-                "stars": 3382
+                "stars": 3382,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "distributed-computing",
+                  "image-classification",
+                  "image-processing",
+                  "image-segmentation",
+                  "information-retrieval",
+                  "infrastructure",
+                  "machine-learning",
+                  "metric-learning",
+                  "natural-language-processing",
+                  "object-detection",
+                  "python",
+                  "pytorch",
+                  "recommender-system",
+                  "reinforcement-learning",
+                  "reproducibility",
+                  "research",
+                  "text-classification",
+                  "text-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1426,12 +2326,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorforce: a TensorFlow library for applied reinforcement learning",
+                "homepage": null,
                 "id": 85491050,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-14T05:34:38Z",
+                "open_issues": 44,
                 "owner": "tensorforce",
                 "repo": "tensorforce",
-                "stars": 3305
+                "stars": 3305,
+                "topics": [
+                  "control",
+                  "deep-reinforcement-learning",
+                  "reinforcement-learning",
+                  "system-control",
+                  "tensorflow",
+                  "tensorflow-library",
+                  "tensorforce"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1442,12 +2355,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow Reinforcement Learning",
+                "homepage": null,
                 "id": 144027556,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-08T18:07:05Z",
+                "open_issues": 6,
                 "owner": "google-deepmind",
                 "repo": "trfl",
-                "stars": 3130
+                "stars": 3130,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1458,12 +2376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rllab is a framework for developing and evaluating reinforcement learning algorithms, fully compatible with OpenAI Gym.",
+                "homepage": null,
                 "id": 56792704,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-10T20:57:52Z",
+                "open_issues": 117,
                 "owner": "rll",
                 "repo": "rllab",
-                "stars": 3078
+                "stars": 3078,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1474,12 +2397,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.",
+                "homepage": null,
                 "id": 157936206,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T22:49:15Z",
+                "open_issues": 212,
                 "owner": "tensorflow",
                 "repo": "agents",
-                "stars": 3026
+                "stars": 3026,
+                "topics": [
+                  "bandits",
+                  "contextual-bandits",
+                  "dqn",
+                  "multi-armed-bandits",
+                  "reinforcement-learning",
+                  "rl-algorithms",
+                  "tensorflow",
+                  "tf-agents"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1490,12 +2427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of reinforcement learning algorithms",
+                "homepage": null,
                 "id": 118840360,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-17T17:33:51Z",
+                "open_issues": 40,
                 "owner": "rail-berkeley",
                 "repo": "rlkit",
-                "stars": 2932
+                "stars": 2932,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1506,12 +2448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast and simple implementation of learning algorithms for robotics.",
+                "homepage": "https://leggedrobotics.github.io/rsl_rl/",
                 "id": 418503284,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T11:53:15Z",
+                "open_issues": 11,
                 "owner": "leggedrobotics",
                 "repo": "rsl_rl",
-                "stars": 2918
+                "stars": 2920,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1522,12 +2469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reinforcement Learning in PyTorch",
+                "homepage": null,
                 "id": 183944453,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-01-04T20:48:15Z",
+                "open_issues": 63,
                 "owner": "astooke",
                 "repo": "rlpyt",
-                "stars": 2278
+                "stars": 2278,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1538,12 +2490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Multi-Agent Reinforcement Learning framework",
+                "homepage": null,
                 "id": 154679202,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-08T02:58:39Z",
+                "open_issues": 62,
                 "owner": "oxwhirl",
                 "repo": "pymarl",
-                "stars": 2217
+                "stars": 2217,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1554,12 +2511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent",
+                "homepage": null,
                 "id": 200259166,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T19:16:01Z",
+                "open_issues": 19,
                 "owner": "google-deepmind",
                 "repo": "bsuite",
-                "stars": 1555
+                "stars": 1555,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1570,12 +2532,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "High-quality single-file implementations of SOTA Offline and Offline-to-Online RL algorithms: AWAC, BC, CQL, DT, EDAC, IQL, SAC-N, TD3+BC, LB-SAC, SPOT, Cal-QL, ReBRAC",
+                "homepage": "https://arxiv.org/abs/2210.07105",
                 "id": 540352640,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-03T07:13:55Z",
+                "open_issues": 4,
                 "owner": "tinkoff-ai",
                 "repo": "CORL",
-                "stars": 1373
+                "stars": 1373,
+                "topics": [
+                  "d4rl",
+                  "gym",
+                  "offline-reinforcement-learning",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1586,12 +2558,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChainerRL is a deep reinforcement learning library built on top of Chainer.",
+                "homepage": null,
                 "id": 80394882,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-08-10T18:25:48Z",
+                "open_issues": 65,
                 "owner": "chainer",
                 "repo": "chainerrl",
-                "stars": 1198
+                "stars": 1198,
+                "topics": [
+                  "actor-critic",
+                  "chainer",
+                  "deep-learning",
+                  "dqn",
+                  "machine-learning",
+                  "python",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1602,12 +2587,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for Reinforcement Learning.",
+                "homepage": null,
                 "id": 83158675,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:28:26Z",
+                "open_issues": 4,
                 "owner": "MushroomRL",
                 "repo": "mushroom-rl",
-                "stars": 944
+                "stars": 944,
+                "topics": [
+                  "atari",
+                  "ddpg",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "dqn",
+                  "mujoco",
+                  "openai-gym",
+                  "pybullet",
+                  "pytorch",
+                  "qlearning",
+                  "reinforcement-learning",
+                  "rl",
+                  "sac",
+                  "trpo"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1618,12 +2623,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reinforcement Learning for real-time applications",
+                "homepage": "https://pypi.org/project/tmrl",
                 "id": 277973609,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-09T18:21:26Z",
+                "open_issues": 4,
                 "owner": "trackmania-rl",
                 "repo": "tmrl",
-                "stars": 734
+                "stars": 735,
+                "topics": [
+                  "pytorch",
+                  "reinforcement-learning",
+                  "self-driving-car",
+                  "soft-actor-critic",
+                  "trackmania"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1634,12 +2650,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Structural implementation of RL key algorithms",
+                "homepage": "https://www.medipixel.io/",
                 "id": 161100560,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-08T09:15:39Z",
+                "open_issues": 15,
                 "owner": "medipixel",
                 "repo": "rl_algorithms",
-                "stars": 517
+                "stars": 517,
+                "topics": [
+                  "deep-learning",
+                  "dqn",
+                  "gym",
+                  "policy-gradient",
+                  "python3",
+                  "pytorch",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1650,12 +2679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-Source Distributed Reinforcement Learning Framework by Stanford Vision and Learning Lab",
+                "homepage": "https://surreal.stanford.edu",
                 "id": 155152544,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-05-05T15:06:02Z",
+                "open_issues": 7,
                 "owner": "SurrealAI",
                 "repo": "surreal",
-                "stars": 493
+                "stars": 493,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1666,12 +2700,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch Library for Reinforcement Learning Research",
+                "homepage": "http://cherry.sebarnold.net",
                 "id": 159752575,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-22T21:24:05Z",
+                "open_issues": 3,
                 "owner": "learnables",
                 "repo": "cherry",
-                "stars": 196
+                "stars": 196,
+                "topics": [
+                  "learning",
+                  "pytorch",
+                  "reinforcement",
+                  "reinforcement-learning",
+                  "rl"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1682,12 +2727,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reinforcement learning library in JAX.",
+                "homepage": null,
                 "id": 356384964,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-22T21:26:07Z",
+                "open_issues": 0,
                 "owner": "ethanluoyc",
                 "repo": "magi",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "jax",
+                  "machine-learning",
+                  "reinforcement-learning",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1703,24 +2758,48 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JAX (Flax) implementation of algorithms for Deep Reinforcement Learning with continuous action spaces. ",
+                    "homepage": null,
                     "id": 330059679,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2022-10-26T04:30:25Z",
+                    "open_issues": 3,
                     "owner": "ikostrikov",
                     "repo": "jaxrl",
-                    "stars": 758
+                    "stars": 758,
+                    "topics": [
+                      "batch-reinforcement-learning",
+                      "behavioral-cloning",
+                      "continuous-control",
+                      "deep-deterministic-policy-gradient",
+                      "deep-learning",
+                      "deep-reinforcement-learning",
+                      "flax",
+                      "gym",
+                      "jax",
+                      "offline-reinforcement-learning",
+                      "reinforcement-learning",
+                      "sac",
+                      "soft-actor-critic"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 557660737,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-01-20T18:37:08Z",
+                "open_issues": 0,
                 "owner": "ikostrikov",
                 "repo": "jaxrl2",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1731,12 +2810,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reinforcement learning for operational decisions — pricing, inventory, energy, queues, supply chains. 31 algorithms, typed, tested.",
+                "homepage": "https://drobyshevdev.github.io/decisionrl/",
                 "id": 1289830838,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T16:51:49Z",
+                "open_issues": 6,
                 "owner": "DrobyshevDev",
                 "repo": "decisionrl",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "applied-rl",
+                  "artificial-intelligence",
+                  "ddpg",
+                  "decision-making",
+                  "deep-reinforcement-learning",
+                  "dqn",
+                  "dynamic-pricing",
+                  "gymnasium",
+                  "inventory-management",
+                  "machine-learning",
+                  "operations-research",
+                  "ppo",
+                  "python",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "rl",
+                  "sac",
+                  "td3"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1747,12 +2850,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Source Machine Learning Framework for Everyone",
+                "homepage": "https://tensorflow.org",
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-28T13:14:04Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:52:27Z",
+                "open_issues": 2961,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197762
+                "stars": 197767,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "machine-learning",
+                  "ml",
+                  "neural-network",
+                  "python",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1763,12 +2880,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+                "homepage": "https://pytorch.org",
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-28T13:11:01Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:45:59Z",
+                "open_issues": 17420,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102645
+                "stars": 102654,
+                "topics": [
+                  "autograd",
+                  "deep-learning",
+                  "gpu",
+                  "machine-learning",
+                  "neural-network",
+                  "numpy",
+                  "python",
+                  "tensor"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1779,12 +2910,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning for humans",
+                "homepage": "http://keras.io/",
                 "id": 33015583,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:12:59Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:44:04Z",
+                "open_issues": 232,
                 "owner": "keras-team",
                 "repo": "keras",
-                "stars": 64261
+                "stars": 64265,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "jax",
+                  "machine-learning",
+                  "neural-networks",
+                  "python",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1795,12 +2940,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+                "homepage": "https://docs.jax.dev",
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-28T13:13:52Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:50:41Z",
+                "open_issues": 2492,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36220
+                "stars": 36222,
+                "topics": [
+                  "jax"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1811,12 +2963,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Library for Model Based RL ",
+                "homepage": null,
                 "id": 288181946,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-12T20:42:46Z",
+                "open_issues": 23,
                 "owner": "facebookresearch",
                 "repo": "mbrl-lib",
-                "stars": 1064
+                "stars": 1064,
+                "topics": [
+                  "model-based-reinforcement-learning",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1827,12 +2987,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).",
+                "homepage": null,
                 "id": 101081298,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-29T12:40:49Z",
+                "open_issues": 93,
                 "owner": "ikostrikov",
                 "repo": "pytorch-a2c-ppo-acktr-gail",
-                "stars": 3903
+                "stars": 3903,
+                "topics": [
+                  "a2c",
+                  "acktr",
+                  "actor-critic",
+                  "advantage-actor-critic",
+                  "ale",
+                  "atari",
+                  "continuous-control",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "hessian",
+                  "kfac",
+                  "kronecker-factored-approximation",
+                  "mujoco",
+                  "natural-gradients",
+                  "ppo",
+                  "proximal-policy-optimization",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "roboschool",
+                  "second-order"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1843,12 +3029,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Soft Actor-Critic",
+                "homepage": null,
                 "id": 113385895,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-29T20:49:46Z",
+                "open_issues": 10,
                 "owner": "haarnoja",
                 "repo": "sac",
-                "stars": 1301
+                "stars": 1301,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1859,12 +3050,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the implementation of the PTR algorithm described in the paper: Pre-Training for Robots: Leveraging Diverse Multitask Data via Offline Reinforcement Learning.",
+                "homepage": null,
                 "id": 545665341,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-10-26T04:41:01Z",
+                "open_issues": 1,
                 "owner": "Asap7772",
                 "repo": "PTR",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1875,12 +3074,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An educational resource to help anyone learn deep reinforcement learning.",
+                "homepage": "https://spinningup.openai.com/",
                 "id": 156606738,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-05T03:30:30Z",
+                "open_issues": 253,
                 "owner": "openai",
                 "repo": "spinningup",
-                "stars": 11919
+                "stars": 11919,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -1891,12 +3095,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch",
+                "homepage": null,
                 "id": 135610132,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-05-19T23:12:14Z",
+                "open_issues": 2,
                 "owner": "qfettes",
                 "repo": "DeepRL-Tutorials",
-                "stars": 1078
+                "stars": 1078,
+                "topics": [
+                  "a2c",
+                  "actor-critic",
+                  "advantage-actor-critic",
+                  "categorical-dqn",
+                  "deep-q-network",
+                  "deep-recurrent-q-network",
+                  "deep-reinforcement-learning",
+                  "deeprl-tutorials",
+                  "double-dqn",
+                  "dueling-dqn",
+                  "gae",
+                  "multi-step-learning",
+                  "noisy-networks",
+                  "ppo",
+                  "prioritized-experience-replay",
+                  "python3",
+                  "pytorch",
+                  "quantile-regression",
+                  "rainbow",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             }
@@ -1919,12 +3149,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.",
+                    "homepage": "https://unity.com/products/machine-learning-agents",
                     "id": 102904613,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T08:41:37Z",
+                    "open_issues": 21,
                     "owner": "Unity-Technologies",
                     "repo": "ml-agents",
-                    "stars": 19651
+                    "stars": 19653,
+                    "topics": [
+                      "deep-learning",
+                      "deep-reinforcement-learning",
+                      "machine-learning",
+                      "neural-networks",
+                      "reinforcement-learning",
+                      "unity",
+                      "unity3d"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -1935,12 +3178,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)",
+                    "homepage": "https://gymnasium.farama.org",
                     "id": 534011733,
                     "language": "Python",
-                    "last_commit": "2026-08-19T16:01:04Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T17:57:29Z",
+                    "open_issues": 77,
                     "owner": "Farama-Foundation",
                     "repo": "Gymnasium",
-                    "stars": 12421
+                    "stars": 12427,
+                    "topics": [
+                      "api",
+                      "gym",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -1951,12 +3203,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "StarCraft II Learning Environment",
+                    "homepage": null,
                     "id": 98336690,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-23T16:54:42Z",
+                    "open_issues": 64,
                     "owner": "google-deepmind",
                     "repo": "pysc2",
-                    "stars": 8307
+                    "stars": 8307,
+                    "topics": [
+                      "blizzard-api",
+                      "deepmind",
+                      "machine-learning",
+                      "reinforcement-learning",
+                      "starcraft-ii",
+                      "starcraft-ii-replays"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -1967,12 +3231,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information:",
+                    "homepage": "https://www.microsoft.com/en-us/research/project/project-malmo/",
                     "id": 59032201,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2025-09-03T13:10:21Z",
+                    "open_issues": 171,
                     "owner": "microsoft",
                     "repo": "malmo",
-                    "stars": 4270
+                    "stars": 4270,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -1983,12 +3252,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Retro Games in Gym",
+                    "homepage": null,
                     "id": 120541397,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2024-02-22T13:04:14Z",
+                    "open_issues": 62,
                     "owner": "openai",
                     "repo": "retro",
-                    "stars": 3584
+                    "stars": 3584,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -1999,12 +3273,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of environments for autonomous driving and tactical decision-making tasks",
+                    "homepage": "https://highway-env.farama.org/",
                     "id": 110852412,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-22T12:17:50Z",
+                    "open_issues": 40,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3299
+                    "stars": 3299,
+                    "topics": [
+                      "autonomous-driving",
+                      "gymnasium-environment",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2015,12 +3298,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Isaac Gym Environments for Legged Robots",
+                    "homepage": null,
                     "id": 418499474,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-05-29T08:02:13Z",
+                    "open_issues": 58,
                     "owner": "leggedrobotics",
                     "repo": "legged_gym",
-                    "stars": 3104
+                    "stars": 3104,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2031,12 +3319,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Isaac Gym Reinforcement Learning Environments",
+                    "homepage": null,
                     "id": 400365945,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-10-26T15:43:53Z",
+                    "open_issues": 158,
                     "owner": "isaac-sim",
                     "repo": "IsaacGymEnvs",
-                    "stars": 2953
+                    "stars": 2953,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2047,12 +3340,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple and easily configurable grid world environments for reinforcement learning",
+                    "homepage": "https://minigrid.farama.org/",
                     "id": 114143182,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T22:06:07Z",
+                    "open_issues": 23,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2501
+                    "stars": 2501,
+                    "topics": [
+                      "gridworld-environment",
+                      "gymnasium",
+                      "gymnasium-environment"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2063,12 +3365,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym.",
+                    "homepage": null,
                     "id": 91389763,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-04-02T11:37:04Z",
+                    "open_issues": 83,
                     "owner": "openai",
                     "repo": "roboschool",
-                    "stars": 2169
+                    "stars": 2169,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2079,12 +3386,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reinforcement Learning environments based on the 1993 game Doom :godmode:",
+                    "homepage": "https://vizdoom.farama.org/",
                     "id": 38127500,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-08-21T07:29:58Z",
+                    "open_issues": 39,
                     "owner": "Farama-Foundation",
                     "repo": "ViZDoom",
-                    "stars": 2064
+                    "stars": 2064,
+                    "topics": [
+                      "deep-learning",
+                      "doom",
+                      "examples",
+                      "gymnasium",
+                      "gymnasium-environment",
+                      "python",
+                      "reinforcement-learning",
+                      "vizdoom"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2095,12 +3416,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent",
+                    "homepage": null,
                     "id": 200259166,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T19:16:01Z",
+                    "open_issues": 19,
                     "owner": "google-deepmind",
                     "repo": "bsuite",
-                    "stars": 1555
+                    "stars": 1555,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2111,12 +3437,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sim-to-real RL training and deployment tools for the Unitree Go1 robot.",
+                    "homepage": "https://gmargo11.github.io/walk-these-ways/",
                     "id": 566208187,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-06-16T22:12:27Z",
+                    "open_issues": 9,
                     "owner": "Improbable-AI",
                     "repo": "walk-these-ways",
-                    "stars": 1439
+                    "stars": 1440,
+                    "topics": [
+                      "go1",
+                      "reinforcement-learning",
+                      "robotics",
+                      "sim-to-real",
+                      "unitree"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2127,12 +3464,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reinforcement Learning environments for Traffic Signal Control with SUMO. Compatible with Gymnasium, PettingZoo, and popular RL libraries.",
+                    "homepage": "https://lucasalegre.github.io/sumo-rl",
                     "id": 161216111,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-08T13:23:47Z",
+                    "open_issues": 11,
                     "owner": "LucasAlegre",
                     "repo": "sumo-rl",
-                    "stars": 1071
+                    "stars": 1071,
+                    "topics": [
+                      "deep-reinforcement-learning",
+                      "gym",
+                      "gym-env",
+                      "gymnasium",
+                      "machine-learning",
+                      "pettingzoo",
+                      "python",
+                      "reinforcement-learning",
+                      "rl-algorithms",
+                      "sumo",
+                      "traffic-signal-control"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2143,12 +3497,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MineRL Competition for Sample Efficient Reinforcement Learning - Python Package",
+                    "homepage": "http://minerl.io/docs/",
                     "id": 183058962,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-01-22T20:22:41Z",
+                    "open_issues": 241,
                     "owner": "minerllabs",
                     "repo": "minerl",
-                    "stars": 974
+                    "stars": 974,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2159,12 +3518,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of robotics simulation environments for reinforcement learning",
+                    "homepage": "https://robotics.farama.org/",
                     "id": 421134917,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-02T17:38:14Z",
+                    "open_issues": 11,
                     "owner": "Farama-Foundation",
                     "repo": "Gymnasium-Robotics",
-                    "stars": 962
+                    "stars": 962,
+                    "topics": [
+                      "d4rl",
+                      "gymnasium",
+                      "mujoco",
+                      "reinforcement-learning",
+                      "robotics",
+                      "simulation"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2175,12 +3546,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyBullet CartPole and Quadrotor environments—with CasADi symbolic a priori dynamics—for learning-based control and RL",
+                    "homepage": "https://www.dynsyslab.org/safe-robot-learning/",
                     "id": 392837160,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-04-29T14:25:54Z",
+                    "open_issues": 6,
                     "owner": "learnsyslab",
                     "repo": "safe-control-gym",
-                    "stars": 913
+                    "stars": 913,
+                    "topics": [
+                      "cartpole",
+                      "casadi",
+                      "control",
+                      "gym",
+                      "pybullet",
+                      "quadcopter",
+                      "quadrotor",
+                      "reinforcement-learning",
+                      "robotics",
+                      "robustness",
+                      "safety",
+                      "symbolic"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2191,12 +3580,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform.",
+                    "homepage": "https://pybullet.org/",
                     "id": 116383460,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-10-16T08:35:41Z",
+                    "open_issues": 33,
                     "owner": "benelot",
                     "repo": "pybullet-gym",
-                    "stars": 882
+                    "stars": 882,
+                    "topics": [
+                      "openai-gym",
+                      "pybullet",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2207,12 +3605,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Refer to https://github.com/AcutronicRobotics/gym-gazebo2 for the new version",
+                    "homepage": "http://acutronicrobotics.com",
                     "id": 66111670,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-03-16T23:59:49Z",
+                    "open_issues": 12,
                     "owner": "erlerobot",
                     "repo": "gym-gazebo",
-                    "stars": 845
+                    "stars": 845,
+                    "topics": [
+                      "deep-reinforcement-learning",
+                      "drl",
+                      "gazebo",
+                      "openai-gym",
+                      "reinforcement-learning",
+                      "rl",
+                      "robotics",
+                      "ros"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2223,12 +3635,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple and easily configurable 3D FPS-game-like environments for reinforcement learning",
+                    "homepage": null,
                     "id": 146385371,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-02T00:54:50Z",
+                    "open_issues": 10,
                     "owner": "Farama-Foundation",
                     "repo": "Miniworld",
-                    "stars": 776
+                    "stars": 776,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2239,12 +3656,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Set of robotic environments based on PyBullet physics engine and gymnasium.",
+                    "homepage": null,
                     "id": 295209844,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-07-23T07:27:41Z",
+                    "open_issues": 10,
                     "owner": "qgallouedec",
                     "repo": "panda-gym",
-                    "stars": 764
+                    "stars": 764,
+                    "topics": [
+                      "artificial-intelligence",
+                      "deep-learning",
+                      "franka-emika",
+                      "machine-learning",
+                      "python",
+                      "reinforcement-learning",
+                      "robotics"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2255,12 +3685,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of multi agent environments based on OpenAI gym.",
+                    "homepage": "https://github.com/koulanurag/ma-gym/wiki",
                     "id": 191194671,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-07T15:52:18Z",
+                    "open_issues": 0,
                     "owner": "koulanurag",
                     "repo": "ma-gym",
-                    "stars": 633
+                    "stars": 633,
+                    "topics": [
+                      "collaborative",
+                      "environment",
+                      "gym",
+                      "multi-agent",
+                      "openai-gym",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2271,12 +3713,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Tools for accelerating safe exploration research.",
+                    "homepage": "https://openai.com/blog/safety-gym/",
                     "id": 223119040,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-04-02T11:31:24Z",
+                    "open_issues": 16,
                     "owner": "openai",
                     "repo": "safety-gym",
-                    "stars": 602
+                    "stars": 602,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2287,12 +3734,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Trading Gym is an open source project for the development of reinforcement learning algorithms in the context of trading.",
+                    "homepage": null,
                     "id": 94214733,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-01-02T22:23:17Z",
+                    "open_issues": 17,
                     "owner": "thedimlebowski",
                     "repo": "Trading-Gym",
-                    "stars": 568
+                    "stars": 568,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2303,12 +3755,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Obstacle Tower Environment",
+                    "homepage": null,
                     "id": 158439620,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-07-29T01:09:36Z",
+                    "open_issues": 31,
                     "owner": "Unity-Technologies",
                     "repo": "obstacle-tower-env",
-                    "stars": 546
+                    "stars": 546,
+                    "topics": [
+                      "deep-learning",
+                      "gym-environment",
+                      "ml-agents",
+                      "reinforcement-learning",
+                      "unity-3d"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2319,12 +3782,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MiniHack the Planet: A Sandbox for Open-Ended Reinforcement Learning Research",
+                    "homepage": null,
                     "id": 201013644,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-12T13:52:10Z",
+                    "open_issues": 0,
                     "owner": "facebookresearch",
                     "repo": "minihack",
-                    "stars": 520
+                    "stars": 520,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2335,12 +3803,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repo for reproduction of sequential social dilemmas",
+                    "homepage": null,
                     "id": 159880367,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-03-06T22:33:08Z",
+                    "open_issues": 37,
                     "owner": "eugenevinitsky",
                     "repo": "sequential_social_dilemma_games",
-                    "stars": 416
+                    "stars": 416,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2351,12 +3824,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Assistive Gym, a physics-based simulation framework for physical human-robot interaction and robotic assistance.",
+                    "homepage": null,
                     "id": 210993757,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-01-26T08:40:16Z",
+                    "open_issues": 10,
                     "owner": "Healthcare-Robotics",
                     "repo": "assistive-gym",
-                    "stars": 406
+                    "stars": 406,
+                    "topics": [
+                      "assistive-robotics",
+                      "human-robot-interaction",
+                      "physics-simulation",
+                      "robotics",
+                      "simulation"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2367,12 +3851,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SpaceX Falcon 9 Box2D continuous-action simulation with traditional and AI controllers.",
+                    "homepage": null,
                     "id": 99834409,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-05-02T07:11:43Z",
+                    "open_issues": 1,
                     "owner": "arex18",
                     "repo": "rocket-lander",
-                    "stars": 338
+                    "stars": 338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2383,12 +3872,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simulation library for Agility Robotics' Cassie robot using MuJoCo",
+                    "homepage": null,
                     "id": 133922752,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2023-04-13T06:45:50Z",
+                    "open_issues": 6,
                     "owner": "osudrl",
                     "repo": "cassie-mujoco-sim",
-                    "stars": 310
+                    "stars": 310,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2399,12 +3893,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 66506601,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-04-02T11:45:25Z",
+                    "open_issues": 14,
                     "owner": "openai",
                     "repo": "gym-soccer",
-                    "stars": 303
+                    "stars": 303,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2415,12 +3914,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Framework for developing OpenAI Gym robotics environments simulated with Ignition Gazebo",
+                    "homepage": "https://robotology.github.io/gym-ignition",
                     "id": 159694571,
                     "language": "C++",
+                    "license": "LGPL-3.0",
                     "last_commit": "2024-01-04T17:16:50Z",
+                    "open_issues": 14,
                     "owner": "robotology-legacy",
                     "repo": "gym-ignition",
-                    "stars": 251
+                    "stars": 251,
+                    "topics": [
+                      "gazebo",
+                      "gym",
+                      "gym-ignition",
+                      "ignition",
+                      "ignition-gazebo",
+                      "ignitionrobotics",
+                      "openai",
+                      "openai-gym",
+                      "openai-gym-environment",
+                      "reinforcement-learning",
+                      "robotics",
+                      "scenario",
+                      "simulation"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2431,12 +3949,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Torch-twrl is a package that enables reinforcement learning in Torch.",
+                    "homepage": null,
                     "id": 67107342,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2017-05-27T16:04:02Z",
+                    "open_issues": 1,
                     "owner": "twitter-archive",
                     "repo": "torch-twrl",
-                    "stars": 251
+                    "stars": 251,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2447,12 +3970,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenAI Gym wrapper for the DeepMind Control Suite",
+                    "homepage": null,
                     "id": 184773240,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-19T12:23:54Z",
+                    "open_issues": 12,
                     "owner": "denisyarats",
                     "repo": "dmc2gym",
-                    "stars": 229
+                    "stars": 229,
+                    "topics": [
+                      "deepmind",
+                      "dm-control",
+                      "gym",
+                      "openai",
+                      "openai-gym",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2463,12 +3998,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Retro Learning Environment (RLE) -- a learning framework for AI",
+                    "homepage": null,
                     "id": 45974977,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-06-06T09:52:54Z",
+                    "open_issues": 5,
                     "owner": "nadavbh12",
                     "repo": "Retro-Learning-Environment",
-                    "stars": 186
+                    "stars": 186,
+                    "topics": [
+                      "dqn",
+                      "game-engine",
+                      "machine",
+                      "machine-learning",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2479,12 +4025,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gym - Doom environments based on VizDoom.",
+                    "homepage": null,
                     "id": 66606195,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2017-03-17T15:49:52Z",
+                    "open_issues": 21,
                     "owner": "ppaquette",
                     "repo": "gym-doom",
-                    "stars": 105
+                    "stars": 105,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2495,12 +4046,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-driving car simulator for the Duckietown universe",
+                    "homepage": "http://duckietown.org",
                     "id": 109167714,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-11-12T15:01:10Z",
+                    "open_issues": 48,
                     "owner": "duckietown",
                     "repo": "gym-duckietown",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": [
+                      "imitation-learning",
+                      "openai-gym",
+                      "reinforcement-learning",
+                      "robot",
+                      "simulator"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2511,12 +4073,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Modelica models integration with Open AI Gym",
+                    "homepage": null,
                     "id": 199046788,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-05-12T15:18:09Z",
+                    "open_issues": 2,
                     "owner": "ucuapps",
                     "repo": "modelicagym",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": [
+                      "modelica",
+                      "openai-gym",
+                      "reinforcement-learning",
+                      "reinforcement-learning-environments"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2527,12 +4099,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A gym environment for xArm",
+                    "homepage": null,
                     "id": 779641498,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-26T10:32:54Z",
+                    "open_issues": 6,
                     "owner": "huggingface",
                     "repo": "gym-xarm",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2543,12 +4120,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple maze environments using mujoco-py",
+                    "homepage": null,
                     "id": 265815896,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-12-27T05:54:51Z",
+                    "open_issues": 8,
                     "owner": "kngwyu",
                     "repo": "mujoco-maze",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2559,12 +4141,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenAI Gym environments using DART",
+                    "homepage": null,
                     "id": 134927464,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2023-02-27T08:03:44Z",
+                    "open_issues": 1,
                     "owner": "dartsim",
                     "repo": "gym-dart",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "dart",
+                      "dartsim",
+                      "gym-dart",
+                      "openai-gym",
+                      "reinforcement-learning",
+                      "reinforcement-learning-environ",
+                      "robotics"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2575,12 +4170,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Awesome openai gym environments",
+                    "homepage": null,
                     "id": 200908546,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-08-06T20:58:52Z",
+                    "open_issues": 0,
                     "owner": "Phylliade",
                     "repo": "awesome-openai-gym-environments",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "openai-gym",
+                      "openai-gym-environments",
+                      "reinforcement-learning",
+                      "robotics"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2591,12 +4196,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pip package gym environment for deep roboy control",
+                    "homepage": null,
                     "id": 161242687,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-03-20T16:54:43Z",
+                    "open_issues": 1,
                     "owner": "Roboy",
                     "repo": "gym-roboy",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2612,12 +4222,27 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Reinforcement learning environments with musculoskeletal models",
+                        "homepage": "http://osim-rl.stanford.edu/",
                         "id": 71018618,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-01-24T03:34:52Z",
+                        "open_issues": 37,
                         "owner": "stanfordnmbl",
                         "repo": "osim-rl",
-                        "stars": 945
+                        "stars": 945,
+                        "topics": [
+                          "biomechanics",
+                          "deep-reinforcement-learning",
+                          "kinematics",
+                          "machine-learning",
+                          "opensim",
+                          "physics",
+                          "reinforcement-learning",
+                          "simulation-environment",
+                          "simulator"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -2628,12 +4253,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "An OpenAI-Gym Package for Training and Testing Reinforcement Learning algorithms with OpenSim Models",
+                        "homepage": null,
                         "id": 429526334,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2021-11-18T20:10:08Z",
+                        "open_issues": 2,
                         "owner": "UtkarshMishra04",
                         "repo": "bioimitation-gym",
-                        "stars": 32
+                        "stars": 32,
+                        "topics": [
+                          "musculoskeletal-models",
+                          "musculoskeletal-simulations",
+                          "opensim",
+                          "reinforcement-learning-environments"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     }
@@ -2651,12 +4286,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official reinforcement learning environment for demand response and load shaping",
+                        "homepage": null,
                         "id": 194467688,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-04-08T15:19:36Z",
+                        "open_issues": 11,
                         "owner": "citylearn-project",
                         "repo": "CityLearn",
-                        "stars": 632
+                        "stars": 632,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -2667,12 +4307,30 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Gym Electric Motor (GEM): An OpenAI Gym Environment for Electric Motors",
+                        "homepage": "https://upb-lea.github.io/gym-electric-motor/",
                         "id": 216583232,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-12-19T16:02:26Z",
+                        "open_issues": 34,
                         "owner": "upb-lea",
                         "repo": "gym-electric-motor",
-                        "stars": 421
+                        "stars": 421,
+                        "topics": [
+                          "benchmark",
+                          "converters",
+                          "electric-drive",
+                          "electrical-engineering",
+                          "gym-environment",
+                          "machinelearning",
+                          "motor-models",
+                          "openai",
+                          "openai-gym",
+                          "openai-gym-environments",
+                          "pmsm",
+                          "reinforcement-learning"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -2683,12 +4341,35 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "OpenModelica Microgrid Gym (OMG): An OpenAI Gym Environment for Microgrids",
+                        "homepage": null,
                         "id": 255886453,
                         "language": "Modelica",
+                        "license": "GPL-3.0",
                         "last_commit": "2022-06-13T08:01:53Z",
+                        "open_issues": 14,
                         "owner": "upb-lea",
                         "repo": "openmodelica-microgrid-gym",
-                        "stars": 229
+                        "stars": 229,
+                        "topics": [
+                          "control",
+                          "electrical-engineering",
+                          "energy-system-modeling",
+                          "engineering",
+                          "machine-learning",
+                          "microgrid",
+                          "modelica",
+                          "openai-gym",
+                          "openai-gym-environments",
+                          "openmodelica",
+                          "power-electronics",
+                          "power-supply",
+                          "power-systems",
+                          "python",
+                          "reinforcement-learning",
+                          "simulation",
+                          "smart-grids"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -2699,12 +4380,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "An open source playground energy storage environment to explore reinforcement learning and model predictive control.",
+                        "homepage": null,
                         "id": 564235838,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-01-15T19:24:16Z",
+                        "open_issues": 6,
                         "owner": "tobirohrer",
                         "repo": "building-energy-storage-simulation",
-                        "stars": 63
+                        "stars": 63,
+                        "topics": [
+                          "energy-storage",
+                          "energy-storage-systems",
+                          "gym",
+                          "gymnasium",
+                          "model-predictive-control",
+                          "optimal-control",
+                          "reinforcement-learning",
+                          "solar-energy"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     }
@@ -2722,12 +4417,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Bandits Environments for the OpenAI Gym",
+                        "homepage": null,
                         "id": 67196056,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2020-01-15T03:55:22Z",
+                        "open_issues": 2,
                         "owner": "JKCooper2",
                         "repo": "gym-bandits",
-                        "stars": 89
+                        "stars": 89,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -2738,12 +4438,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Multi-armed bandits environments for OpenAI Gym",
+                        "homepage": null,
                         "id": 107662615,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2018-05-27T22:53:33Z",
+                        "open_issues": 1,
                         "owner": "ThomasLecat",
                         "repo": "gym-bandit-environments",
-                        "stars": 10
+                        "stars": 10,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -2754,12 +4459,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "OpenAI Gym Environment for the k Armed Bandits Reinforcement Learning Task",
+                        "homepage": null,
                         "id": 113226186,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2017-12-08T03:00:12Z",
+                        "open_issues": 0,
                         "owner": "diegoalejogm",
                         "repo": "openai-k-armed-bandits",
-                        "stars": 8
+                        "stars": 8,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     },
@@ -2770,12 +4480,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "OpenAI gym environment for multi-armed bandits",
+                        "homepage": null,
                         "id": 240266201,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-02-24T15:09:57Z",
+                        "open_issues": 0,
                         "owner": "magni84",
                         "repo": "gym_bandits",
-                        "stars": 1
+                        "stars": 1,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
                     }
@@ -2784,12 +4499,21 @@
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)",
+                "homepage": "https://gymnasium.farama.org",
                 "id": 534011733,
                 "language": "Python",
-                "last_commit": "2026-08-19T16:01:04Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T17:57:29Z",
+                "open_issues": 77,
                 "owner": "Farama-Foundation",
                 "repo": "Gymnasium",
-                "stars": 12421
+                "stars": 12427,
+                "topics": [
+                  "api",
+                  "gym",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -2805,12 +4529,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A set of high-dimensional continuous control environments for use with Unity ML-Agents Toolkit.",
+                    "homepage": null,
                     "id": 145900577,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-08-19T06:31:29Z",
+                    "open_issues": 3,
                     "owner": "Unity-Technologies",
                     "repo": "marathon-envs",
-                    "stars": 313
+                    "stars": 313,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
@@ -2828,12 +4557,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.",
+                    "homepage": "https://unity.com/products/machine-learning-agents",
                     "id": 102904613,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T08:41:37Z",
+                    "open_issues": 21,
                     "owner": "Unity-Technologies",
                     "repo": "ml-agents",
-                    "stars": 19651
+                    "stars": 19653,
+                    "topics": [
+                      "deep-learning",
+                      "deep-reinforcement-learning",
+                      "machine-learning",
+                      "neural-networks",
+                      "reinforcement-learning",
+                      "unity",
+                      "unity3d"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2844,12 +4586,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reinforcement Learning environments for Traffic Signal Control with SUMO. Compatible with Gymnasium, PettingZoo, and popular RL libraries.",
+                    "homepage": "https://lucasalegre.github.io/sumo-rl",
                     "id": 161216111,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-08T13:23:47Z",
+                    "open_issues": 11,
                     "owner": "LucasAlegre",
                     "repo": "sumo-rl",
-                    "stars": 1071
+                    "stars": 1071,
+                    "topics": [
+                      "deep-reinforcement-learning",
+                      "gym",
+                      "gym-env",
+                      "gymnasium",
+                      "machine-learning",
+                      "pettingzoo",
+                      "python",
+                      "reinforcement-learning",
+                      "rl-algorithms",
+                      "sumo",
+                      "traffic-signal-control"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 },
@@ -2860,24 +4619,40 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An engine for high performance multi-agent environments with very large numbers of agents, along with a set of reference environments",
+                    "homepage": "https://magent2.farama.org",
                     "id": 532978667,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T21:56:31Z",
+                    "open_issues": 15,
                     "owner": "Farama-Foundation",
                     "repo": "MAgent2",
-                    "stars": 341
+                    "stars": 341,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities",
+                "homepage": "https://pettingzoo.farama.org",
                 "id": 235012937,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-13T18:03:26Z",
+                "open_issues": 45,
                 "owner": "Farama-Foundation",
                 "repo": "PettingZoo",
-                "stars": 3498
+                "stars": 3498,
+                "topics": [
+                  "api",
+                  "gymnasium",
+                  "multi-agent-reinforcement-learning",
+                  "multiagent-reinforcement-learning",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             }
@@ -2895,12 +4670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of reference environments for offline reinforcement learning",
+                "homepage": null,
                 "id": 255029381,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-18T16:40:39Z",
+                "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700
+                "stars": 1700,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -2911,12 +4691,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A standard format for offline reinforcement learning datasets, with popular reference datasets and related utilities",
+                "homepage": "https://minari.farama.org",
                 "id": 546752231,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-04T23:48:43Z",
+                "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minari",
-                "stars": 1291
+                "stars": 1291,
+                "topics": [
+                  "datasets",
+                  "gymnasium",
+                  "offline-rl",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -2927,12 +4717,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 394176985,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-26T16:40:01Z",
+                "open_issues": 7,
                 "owner": "google-research",
                 "repo": "rlds",
-                "stars": 493
+                "stars": 493,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -2943,12 +4738,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ROBEL: Robotics Benchmarks for Learning with low-cost robots",
+                "homepage": "http://roboticsbenchmarks.org",
                 "id": 205263667,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-05T12:13:45Z",
+                "open_issues": 13,
                 "owner": "google-research",
                 "repo": "robel",
-                "stars": 150
+                "stars": 150,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -2959,12 +4759,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit for reproducible reinforcement learning research.",
+                "homepage": null,
                 "id": 136846372,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-04T14:44:22Z",
+                "open_issues": 234,
                 "owner": "rlworkgroup",
                 "repo": "garage",
-                "stars": 2126
+                "stars": 2126,
+                "topics": [
+                  "pytorch",
+                  "reproducibility",
+                  "rl-algorithms",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -2975,12 +4785,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A large-scale benchmark and learning environment.",
+                "homepage": "https://sites.google.com/corp/view/rlbench",
                 "id": 211181267,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-25T13:13:19Z",
+                "open_issues": 93,
                 "owner": "stepjam",
                 "repo": "RLBench",
-                "stars": 1812
+                "stars": 1812,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -2991,12 +4806,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[NeurIPS'21 Outstanding Paper] Library for reliable evaluation on RL and ML benchmarks, even with only a handful of seeds.",
+                "homepage": "https://agarwl.github.io/rliable",
                 "id": 398111584,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-12T20:48:27Z",
+                "open_issues": 5,
                 "owner": "google-research",
                 "repo": "rliable",
-                "stars": 878
+                "stars": 878,
+                "topics": [
+                  "benchmarking",
+                  "evaluation-metrics",
+                  "google",
+                  "machine-learning",
+                  "reinforcement-learning",
+                  "rl"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -3007,12 +4834,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The RL Reliability Metrics library provides a set of metrics for measuring the reliability of reinforcement learning (RL) algorithms, as well as statistical tools for comparing algorithms and for computing confidence intervals on these metrics.",
+                "homepage": null,
                 "id": 226411041,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-31T15:06:56Z",
+                "open_issues": 0,
                 "owner": "google-research",
                 "repo": "rl-reliability-metrics",
-                "stars": 162
+                "stars": 162,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -3023,12 +4855,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The First Open-Sourced Building Batch Reinforcement Learning Dataset",
+                "homepage": null,
                 "id": 531279523,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-05-10T15:57:36Z",
+                "open_issues": 0,
                 "owner": "HYDesmondLiu",
                 "repo": "B2RL",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "deep-reinforcement-learning",
+                  "hvac-control",
+                  "offline-reinforcement-learning",
+                  "open-source",
+                  "optimal-control",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             },
@@ -3039,12 +4883,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent",
+                "homepage": null,
                 "id": 200259166,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T19:16:01Z",
+                "open_issues": 19,
                 "owner": "google-deepmind",
                 "repo": "bsuite",
-                "stars": 1555
+                "stars": 1555,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
             }
@@ -3066,12 +4915,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most cited deep learning papers",
+            "homepage": null,
             "id": 60325062,
             "language": "TeX",
+            "license": null,
             "last_commit": "2024-01-18T13:29:44Z",
+            "open_issues": 37,
             "owner": "terryum",
             "repo": "awesome-deep-learning-papers",
-            "stars": 26184
+            "stars": 26185,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.879Z"
         },
@@ -3082,12 +4940,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For deep RL and the future of AI. ",
+            "homepage": null,
             "id": 80825974,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-03-01T08:20:45Z",
+            "open_issues": 1,
             "owner": "tigerneil",
             "repo": "awesome-deep-rl",
-            "stars": 1513
+            "stars": 1513,
+            "topics": [
+              "aaai",
+              "aamas",
+              "agi",
+              "aistats",
+              "artificial-general-intelligence",
+              "deep-reinforcement-learning",
+              "distributional",
+              "exploration-exploitation",
+              "game",
+              "hierarchical-reinforcement-learning",
+              "iclr",
+              "icml",
+              "ijcai",
+              "inverse-rl",
+              "multiagent-reinforcement-learning",
+              "planning",
+              "reinforcement-learning",
+              "reward",
+              "theoretical-computer-science",
+              "uai"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.879Z"
         },
@@ -3098,12 +4982,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
+            "homepage": null,
             "id": 318522019,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-23T03:08:40Z",
+            "open_issues": 1,
             "owner": "hanjuku-kaso",
             "repo": "awesome-offline-rl",
-            "stars": 1075
+            "stars": 1075,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "off-policy-evaluation",
+              "offline-rl",
+              "reinforcement-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.879Z"
         },
@@ -3114,12 +5010,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Deep Reinforcement Learning resources.",
+            "homepage": null,
             "id": 202937615,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-07-13T16:02:20Z",
+            "open_issues": 2,
             "owner": "kengz",
             "repo": "awesome-deep-rl",
-            "stars": 899
+            "stars": 899,
+            "topics": [
+              "awesome-list",
+              "deep-reinforcement-learning",
+              "deep-rl",
+              "reinforcement-learning",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.879Z"
         },
@@ -3130,12 +5037,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub's code repository is all you need",
+            "homepage": null,
             "id": 480739095,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-21T04:40:01Z",
+            "open_issues": 0,
             "owner": "wwxFromTju",
             "repo": "awesome-reinforcement-learning-lib",
-            "stars": 387
+            "stars": 387,
+            "topics": [
+              "reinforcement-learning",
+              "reinforcement-learning-algorithms",
+              "reinforcementlearning"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.879Z"
         },
@@ -3146,12 +5062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of resources about deep reinforcement learning",
+            "homepage": null,
             "id": 77625773,
             "language": null,
+            "license": null,
             "last_commit": "2017-02-24T10:29:33Z",
+            "open_issues": 0,
             "owner": "williamd4112",
             "repo": "awesome-deep-reinforcement-learning",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.879Z"
         }
@@ -3160,15 +5081,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:20:09.879Z",
+    "last_updated": "2026-08-29T04:55:37.435Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list for Deep Reinforcement Learning (DRL): software frameworks, models, datasets, gyms, baselines...",
+      "homepage": null,
       "id": 123633051,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-25T10:32:31Z",
+      "open_issues": 2,
       "owner": "jgvictores",
       "repo": "awesome-deep-reinforcement-learning",
-      "stars": 206
+      "stars": 206,
+      "topics": [
+        "awesome-list",
+        "deep-neural-networks",
+        "deep-reinforcement-learning",
+        "drl",
+        "drl-frameworks",
+        "reinforcement-learning"
+      ]
     },
     "original_repository_sha": "75d420b8186e9f1a2fb2021b5761eee57cb55988",
     "enhanced_repository": "enhansome/enhansome-deep-reinforcement-learning",
