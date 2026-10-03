@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Docker images with several pre-installed software frameworks: 1",
-              "description": ", 2, 3.",
+              "description": "ufoym/deepo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -47,7 +47,7 @@
             {
               "node_type": "item",
               "title": "Projects to port trained models from one software framework to another: 1",
-              "description": null,
+              "description": "ysh329/deep-learning-model-convertor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -82,34 +82,6 @@
             },
             {
               "node_type": "item",
-              "title": "Overview: presentation",
-              "description": "(permalink).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list for Deep Reinforcement Learning (DRL): software frameworks, models, datasets, gyms, baselines...",
-                "homepage": null,
-                "id": 123633051,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-25T10:32:31Z",
-                "open_issues": 3,
-                "owner": "jgvictores",
-                "repo": "awesome-deep-reinforcement-learning",
-                "stars": 207,
-                "topics": [
-                  "awesome-list",
-                  "deep-neural-networks",
-                  "deep-reinforcement-learning",
-                  "drl",
-                  "drl-frameworks",
-                  "reinforcement-learning"
-                ]
-              },
-              "first_seen": "2026-08-28T13:20:09.879Z"
-            },
-            {
-              "node_type": "item",
               "title": "tensorflow/tensorflow",
               "description": "TensorFlow (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google).",
               "children": [],
@@ -120,11 +92,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T07:16:29Z",
-                "open_issues": 3238,
+                "last_commit": "2026-10-03T04:18:42Z",
+                "open_issues": 3242,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200660,
+                "stars": 200668,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -150,11 +122,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T07:28:09Z",
-                "open_issues": 17626,
+                "last_commit": "2026-10-03T04:40:50Z",
+                "open_issues": 17580,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 103609,
+                "stars": 103631,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -176,7 +148,7 @@
                 {
                   "node_type": "item",
                   "title": "Examples/tutorials: keras",
-                  "description": ", 1, 2",
+                  "description": "keras-team/keras",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -185,11 +157,11 @@
                     "id": 33015583,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T05:20:03Z",
-                    "open_issues": 248,
+                    "last_commit": "2026-10-02T22:17:14Z",
+                    "open_issues": 255,
                     "owner": "keras-team",
                     "repo": "keras",
-                    "stars": 64345,
+                    "stars": 64348,
                     "topics": [
                       "data-science",
                       "deep-learning",
@@ -211,11 +183,11 @@
                 "id": 33015583,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T05:20:03Z",
-                "open_issues": 248,
+                "last_commit": "2026-10-02T22:17:14Z",
+                "open_issues": 255,
                 "owner": "keras-team",
                 "repo": "keras",
-                "stars": 64345,
+                "stars": 64348,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -242,10 +214,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T02:20:19Z",
-                "open_issues": 1487,
+                "open_issues": 1488,
                 "owner": "PaddlePaddle",
                 "repo": "Paddle",
-                "stars": 24114,
+                "stars": 24117,
                 "topics": [
                   "deep-learning",
                   "distributed-training",
@@ -347,7 +319,7 @@
                 {
                   "node_type": "item",
                   "title": "In addition to chainerrl below, there is also a chainercv: 1",
-                  "description": null,
+                  "description": "chainer/chainercv",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -415,10 +387,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T14:05:40Z",
-                "open_issues": 220,
+                "open_issues": 221,
                 "owner": "NVIDIA",
                 "repo": "DALI",
-                "stars": 5768,
+                "stars": 5770,
                 "topics": [
                   "audio-processing",
                   "data-augmentation",
@@ -442,7 +414,7 @@
             {
               "node_type": "item",
               "title": "flashlight/flashlight",
-              "description": null,
+              "description": "flashlight/flashlight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -480,8 +452,8 @@
                 "id": 111835796,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-01T17:55:53Z",
-                "open_issues": 200,
+                "last_commit": "2026-10-02T11:02:58Z",
+                "open_issues": 199,
                 "owner": "pytorch",
                 "repo": "ignite",
                 "stars": 4789,
@@ -501,7 +473,7 @@
             {
               "node_type": "item",
               "title": "janhuenermann/neurojs",
-              "description": null,
+              "description": "janhuenermann/neurojs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,11 +510,11 @@
                 "id": 58414589,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:56:56Z",
-                "open_issues": 158,
+                "last_commit": "2026-10-03T04:26:18Z",
+                "open_issues": 160,
                 "owner": "uxlfoundation",
                 "repo": "oneDNN",
-                "stars": 4056,
+                "stars": 4057,
                 "topics": [
                   "aarch64",
                   "ace",
@@ -580,8 +552,8 @@
                 "id": 248248401,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T11:25:48Z",
-                "open_issues": 283,
+                "last_commit": "2026-10-02T18:23:59Z",
+                "open_issues": 284,
                 "owner": "Jittor",
                 "repo": "jittor",
                 "stars": 3237,
@@ -611,7 +583,7 @@
                 "open_issues": 0,
                 "owner": "sony",
                 "repo": "nnabla",
-                "stars": 2773,
+                "stars": 2774,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
@@ -666,7 +638,7 @@
                 {
                   "node_type": "item",
                   "title": "Tutorial: 1",
-                  "description": null,
+                  "description": "llSourcell/MXNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -694,7 +666,7 @@
                 {
                   "node_type": "item",
                   "title": "Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: 1",
-                  "description": null,
+                  "description": "karpathy/char-rnn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -722,7 +694,7 @@
                 {
                   "node_type": "item",
                   "title": "Still many tutorials: https://github.com/lisa-lab/DeepLearningTutorials",
-                  "description": null,
+                  "description": "lisa-lab/DeepLearningTutorials",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -767,7 +739,7 @@
                     "open_issues": 331,
                     "owner": "facebookresearch",
                     "repo": "Detectron",
-                    "stars": 26353,
+                    "stars": 26351,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
@@ -850,7 +822,7 @@
                     "open_issues": 75,
                     "owner": "intel",
                     "repo": "caffe",
-                    "stars": 848,
+                    "stars": 847,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
@@ -895,7 +867,7 @@
                 {
                   "node_type": "item",
                   "title": "thunlp/GNNPapers",
-                  "description": null,
+                  "description": "thunlp/GNNPapers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -908,7 +880,7 @@
                     "open_issues": 15,
                     "owner": "thunlp",
                     "repo": "GNNPapers",
-                    "stars": 16847,
+                    "stars": 16846,
                     "topics": [
                       "gnn",
                       "paper-list"
@@ -932,7 +904,7 @@
                     "open_issues": 610,
                     "owner": "dmlc",
                     "repo": "dgl",
-                    "stars": 14285,
+                    "stars": 14284,
                     "topics": [
                       "deep-learning",
                       "graph-neural-networks"
@@ -943,7 +915,7 @@
                 {
                   "node_type": "item",
                   "title": "chihming/awesome-network-embedding",
-                  "description": null,
+                  "description": "chihming/awesome-network-embedding",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -969,7 +941,7 @@
                 {
                   "node_type": "item",
                   "title": "tensorflow/gnn",
-                  "description": null,
+                  "description": "tensorflow/gnn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -995,7 +967,7 @@
                 {
                   "node_type": "item",
                   "title": "\"Signed Graph Convolutional Network\" (ICDM 2018); pytorch",
-                  "description": null,
+                  "description": "benedekrozemberczki/SGCN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1044,7 +1016,7 @@
                 {
                   "node_type": "item",
                   "title": "Tutorial: pytorch",
-                  "description": null,
+                  "description": "leongatys/GenerativeImageModellingWithDNNs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1065,7 +1037,7 @@
                 {
                   "node_type": "item",
                   "title": "Deep Dream. caffe",
-                  "description": null,
+                  "description": "google/deepdream",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1161,7 +1133,7 @@
                     {
                       "node_type": "item",
                       "title": "hindupuravinash/the-gan-zoo",
-                      "description": null,
+                      "description": "hindupuravinash/the-gan-zoo",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1174,7 +1146,7 @@
                         "open_issues": 40,
                         "owner": "hindupuravinash",
                         "repo": "the-gan-zoo",
-                        "stars": 14692,
+                        "stars": 14693,
                         "topics": [
                           "gan",
                           "generative-adversarial-network",
@@ -1186,7 +1158,7 @@
                     {
                       "node_type": "item",
                       "title": "CycleGAN",
-                      "description": "(2017). Jun-Yan Zhu et Al; Berkeley; \"Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks\". torch and migrated to pytorch.",
+                      "description": ". Jun-Yan Zhu et Al; Berkeley; \"Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks\". torch and migrated to pytorch.",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1299,7 +1271,7 @@
                     {
                       "node_type": "item",
                       "title": "FTTNet",
-                      "description": "(2018). Zeyu Jin et Al; \"FFTNet: a Real-Time Speaker-Dependent Neural Vocoder\". pytorch",
+                      "description": ". Zeyu Jin et Al; \"FFTNet: a Real-Time Speaker-Dependent Neural Vocoder\". pytorch",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1375,7 +1347,7 @@
             {
               "node_type": "item",
               "title": "awesomedata/awesome-public-datasets",
-              "description": null,
+              "description": "awesomedata/awesome-public-datasets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1384,11 +1356,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-01T20:21:37Z",
+                "last_commit": "2026-10-02T19:47:28Z",
                 "open_issues": 161,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79276,
+                "stars": 79277,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -1416,7 +1388,7 @@
                     "open_issues": 16,
                     "owner": "rois-codh",
                     "repo": "kmnist",
-                    "stars": 759,
+                    "stars": 758,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
@@ -1431,7 +1403,7 @@
                 {
                   "node_type": "item",
                   "title": "Sketches: Quick Draw (Google)",
-                  "description": null,
+                  "description": "googlecreativelab/quickdraw-dataset",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1444,7 +1416,7 @@
                     "open_issues": 32,
                     "owner": "googlecreativelab",
                     "repo": "quickdraw-dataset",
-                    "stars": 6801,
+                    "stars": 6800,
                     "topics": [
                       "dataset",
                       "quickdraw-dataset"
@@ -1488,7 +1460,7 @@
             {
               "node_type": "item",
               "title": "brain-research/realistic-ssl-evaluation",
-              "description": null,
+              "description": "brain-research/realistic-ssl-evaluation",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1525,11 +1497,11 @@
                 "id": 33015583,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T05:20:03Z",
-                "open_issues": 248,
+                "last_commit": "2026-10-02T22:17:14Z",
+                "open_issues": 255,
                 "owner": "keras-team",
                 "repo": "keras",
-                "stars": 64345,
+                "stars": 64348,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1588,11 +1560,11 @@
                     "id": 33015583,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T05:20:03Z",
-                    "open_issues": 248,
+                    "last_commit": "2026-10-02T22:17:14Z",
+                    "open_issues": 255,
                     "owner": "keras-team",
                     "repo": "keras",
-                    "stars": 64345,
+                    "stars": 64348,
                     "topics": [
                       "data-science",
                       "deep-learning",
@@ -1648,7 +1620,7 @@
                 {
                   "node_type": "item",
                   "title": "Gradient-free: facebookresearch/nevergrad",
-                  "description": null,
+                  "description": "facebookresearch/nevergrad",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1661,7 +1633,7 @@
                     "open_issues": 141,
                     "owner": "facebookresearch",
                     "repo": "nevergrad",
-                    "stars": 4211,
+                    "stars": 4210,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
@@ -1678,7 +1650,7 @@
             {
               "node_type": "item",
               "title": "SHAP (SHapley Additive exPlanations): slundberg/shap",
-              "description": null,
+              "description": "shap/shap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1687,11 +1659,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-01T15:13:48Z",
-                "open_issues": 990,
+                "last_commit": "2026-10-02T13:42:02Z",
+                "open_issues": 989,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25793,
+                "stars": 25792,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1755,7 +1727,7 @@
             {
               "node_type": "item",
               "title": "Keras: keras",
-              "description": ", 1, 2, 3, 4",
+              "description": "keplr-io/quiver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1780,7 +1752,7 @@
             {
               "node_type": "item",
               "title": "XAI (An eXplainability toolbox for machine learning): EthicalML/xai",
-              "description": null,
+              "description": "EthicalML/xai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1902,11 +1874,11 @@
                 "id": 71932349,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T07:04:36Z",
-                "open_issues": 3538,
+                "last_commit": "2026-10-03T00:52:29Z",
+                "open_issues": 3544,
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 43962,
+                "stars": 43964,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1974,10 +1946,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T14:05:40Z",
-                "open_issues": 90,
+                "open_issues": 89,
                 "owner": "DLR-RM",
                 "repo": "stable-baselines3",
-                "stars": 13863,
+                "stars": 13860,
                 "topics": [
                   "baselines",
                   "gsde",
@@ -2013,7 +1985,7 @@
                 "open_issues": 142,
                 "owner": "thu-ml",
                 "repo": "tianshou",
-                "stars": 11001,
+                "stars": 11003,
                 "topics": [
                   "a2c",
                   "atari",
@@ -2054,7 +2026,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10918,
+                "stars": 10917,
                 "topics": [
                   "ai",
                   "google",
@@ -2068,7 +2040,7 @@
             {
               "node_type": "item",
               "title": "vwxyzjn/cleanrl",
-              "description": null,
+              "description": "vwxyzjn/cleanrl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2081,7 +2053,7 @@
                 "open_issues": 113,
                 "owner": "vwxyzjn",
                 "repo": "cleanrl",
-                "stars": 10481,
+                "stars": 10484,
                 "topics": [
                   "a2c",
                   "actor-critic",
@@ -2111,7 +2083,7 @@
                 {
                   "node_type": "item",
                   "title": "SoyGema/Startcraft_pysc2_minigames",
-                  "description": null,
+                  "description": "SoyGema/Startcraft_pysc2_minigames",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2152,7 +2124,7 @@
                 "open_issues": 47,
                 "owner": "keras-rl",
                 "repo": "keras-rl",
-                "stars": 5549,
+                "stars": 5550,
                 "topics": [
                   "keras",
                   "machine-learning",
@@ -2180,7 +2152,7 @@
                 "open_issues": 69,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5512,
+                "stars": 5514,
                 "topics": [
                   "cpp",
                   "games",
@@ -2194,7 +2166,7 @@
             {
               "node_type": "item",
               "title": "janhuenermann/neurojs",
-              "description": null,
+              "description": "janhuenermann/neurojs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2222,7 +2194,7 @@
             {
               "node_type": "item",
               "title": "deepmind/acme",
-              "description": null,
+              "description": "google-deepmind/acme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2256,11 +2228,11 @@
                 "id": 454479855,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T07:06:00Z",
-                "open_issues": 268,
+                "last_commit": "2026-10-02T18:12:17Z",
+                "open_issues": 269,
                 "owner": "pytorch",
                 "repo": "rl",
-                "stars": 3588,
+                "stars": 3589,
                 "topics": [
                   "ai",
                   "control",
@@ -2282,7 +2254,7 @@
             {
               "node_type": "item",
               "title": "catalyst-team/catalyst",
-              "description": null,
+              "description": "catalyst-team/catalyst",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2295,7 +2267,7 @@
                 "open_issues": 6,
                 "owner": "catalyst-team",
                 "repo": "catalyst",
-                "stars": 3387,
+                "stars": 3386,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -2395,7 +2367,7 @@
             {
               "node_type": "item",
               "title": "leggedrobotics/rsl_rl",
-              "description": null,
+              "description": "leggedrobotics/rsl_rl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2429,7 +2401,7 @@
                 "open_issues": 214,
                 "owner": "tensorflow",
                 "repo": "agents",
-                "stars": 3028,
+                "stars": 3029,
                 "topics": [
                   "bandits",
                   "contextual-bandits",
@@ -2446,7 +2418,7 @@
             {
               "node_type": "item",
               "title": "rail-berkeley/rlkit",
-              "description": null,
+              "description": "rail-berkeley/rlkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2585,7 +2557,7 @@
             {
               "node_type": "item",
               "title": "MushroomRL/mushroom-rl",
-              "description": null,
+              "description": "MushroomRL/mushroom-rl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2621,7 +2593,7 @@
             {
               "node_type": "item",
               "title": "trackmania-rl/tmrl",
-              "description": null,
+              "description": "trackmania-rl/tmrl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2634,7 +2606,7 @@
                 "open_issues": 4,
                 "owner": "trackmania-rl",
                 "repo": "tmrl",
-                "stars": 745,
+                "stars": 746,
                 "topics": [
                   "pytorch",
                   "reinforcement-learning",
@@ -2648,7 +2620,7 @@
             {
               "node_type": "item",
               "title": "medipixel/rl_algorithms",
-              "description": null,
+              "description": "medipixel/rl_algorithms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2751,7 +2723,7 @@
             {
               "node_type": "item",
               "title": "ikostrikov/jaxrl2",
-              "description": null,
+              "description": "ikostrikov/jaxrl2",
               "children": [
                 {
                   "node_type": "item",
@@ -2769,7 +2741,7 @@
                     "open_issues": 3,
                     "owner": "ikostrikov",
                     "repo": "jaxrl",
-                    "stars": 758,
+                    "stars": 757,
                     "topics": [
                       "batch-reinforcement-learning",
                       "behavioral-cloning",
@@ -2848,7 +2820,7 @@
             {
               "node_type": "item",
               "title": "tensorflow/tensorflow",
-              "description": null,
+              "description": "tensorflow/tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2857,11 +2829,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T07:16:29Z",
-                "open_issues": 3238,
+                "last_commit": "2026-10-03T04:18:42Z",
+                "open_issues": 3242,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200660,
+                "stars": 200668,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -2878,7 +2850,7 @@
             {
               "node_type": "item",
               "title": "pytorch/pytorch",
-              "description": "https://pytorch.org",
+              "description": "pytorch/pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2887,11 +2859,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T07:28:09Z",
-                "open_issues": 17626,
+                "last_commit": "2026-10-03T04:40:50Z",
+                "open_issues": 17580,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 103609,
+                "stars": 103631,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -2908,7 +2880,7 @@
             {
               "node_type": "item",
               "title": "keras-team/keras",
-              "description": "https://keras.io/",
+              "description": "keras-team/keras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2917,11 +2889,11 @@
                 "id": 33015583,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T05:20:03Z",
-                "open_issues": 248,
+                "last_commit": "2026-10-02T22:17:14Z",
+                "open_issues": 255,
                 "owner": "keras-team",
                 "repo": "keras",
-                "stars": 64345,
+                "stars": 64348,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -2947,8 +2919,8 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T07:15:17Z",
-                "open_issues": 2630,
+                "last_commit": "2026-10-03T04:09:09Z",
+                "open_issues": 2629,
                 "owner": "jax-ml",
                 "repo": "jax",
                 "stars": 36370,
@@ -2985,7 +2957,7 @@
             {
               "node_type": "item",
               "title": "ikostrikov/pytorch-a2c-ppo-acktr",
-              "description": null,
+              "description": "ikostrikov/pytorch-a2c-ppo-acktr-gail",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3027,7 +2999,7 @@
             {
               "node_type": "item",
               "title": "haarnoja/sac",
-              "description": null,
+              "description": "haarnoja/sac",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3176,7 +3148,7 @@
                 {
                   "node_type": "item",
                   "title": "Farama-Foundation/Gymnasium",
-                  "description": null,
+                  "description": "Farama-Foundation/Gymnasium",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3186,10 +3158,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-02T05:15:31Z",
-                    "open_issues": 103,
+                    "open_issues": 104,
                     "owner": "Farama-Foundation",
                     "repo": "Gymnasium",
-                    "stars": 12608,
+                    "stars": 12613,
                     "topics": [
                       "api",
                       "gym",
@@ -3214,7 +3186,7 @@
                     "open_issues": 64,
                     "owner": "google-deepmind",
                     "repo": "pysc2",
-                    "stars": 8319,
+                    "stars": 8321,
                     "topics": [
                       "blizzard-api",
                       "deepmind",
@@ -3229,7 +3201,7 @@
                 {
                   "node_type": "item",
                   "title": "Microsoft/malmo",
-                  "description": null,
+                  "description": "microsoft/malmo",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3250,7 +3222,7 @@
                 {
                   "node_type": "item",
                   "title": "openai/retro",
-                  "description": null,
+                  "description": "openai/retro",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3271,7 +3243,7 @@
                 {
                   "node_type": "item",
                   "title": "eleurent/highway-env",
-                  "description": null,
+                  "description": "Farama-Foundation/HighwayEnv",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3284,7 +3256,7 @@
                     "open_issues": 43,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3323,
+                    "stars": 3322,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -3296,7 +3268,7 @@
                 {
                   "node_type": "item",
                   "title": "leggedrobotics/legged_gym",
-                  "description": null,
+                  "description": "leggedrobotics/legged_gym",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3309,7 +3281,7 @@
                     "open_issues": 58,
                     "owner": "leggedrobotics",
                     "repo": "legged_gym",
-                    "stars": 3132,
+                    "stars": 3131,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
@@ -3317,7 +3289,7 @@
                 {
                   "node_type": "item",
                   "title": "NVIDIA-Omniverse/IsaacGymEnvs",
-                  "description": null,
+                  "description": "isaac-sim/IsaacGymEnvs",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3330,7 +3302,7 @@
                     "open_issues": 158,
                     "owner": "isaac-sim",
                     "repo": "IsaacGymEnvs",
-                    "stars": 2954,
+                    "stars": 2953,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
@@ -3338,7 +3310,7 @@
                 {
                   "node_type": "item",
                   "title": "Farama-Foundation/Minigrid",
-                  "description": null,
+                  "description": "Farama-Foundation/Minigrid",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3348,7 +3320,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-10T21:44:25Z",
-                    "open_issues": 25,
+                    "open_issues": 26,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
                     "stars": 2516,
@@ -3363,7 +3335,7 @@
                 {
                   "node_type": "item",
                   "title": "DEPRECATED: openai/roboschool",
-                  "description": null,
+                  "description": "openai/roboschool",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3414,7 +3386,7 @@
                 {
                   "node_type": "item",
                   "title": "Farama-Foundation/Gymnasium-Robotics",
-                  "description": null,
+                  "description": "Farama-Foundation/Gymnasium-Robotics",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3427,7 +3399,7 @@
                     "open_issues": 14,
                     "owner": "Farama-Foundation",
                     "repo": "Gymnasium-Robotics",
-                    "stars": 1959,
+                    "stars": 1958,
                     "topics": [
                       "d4rl",
                       "gymnasium",
@@ -3463,7 +3435,7 @@
                 {
                   "node_type": "item",
                   "title": "Improbable-AI/walk-these-ways",
-                  "description": null,
+                  "description": "Improbable-AI/walk-these-ways",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3476,7 +3448,7 @@
                     "open_issues": 9,
                     "owner": "Improbable-AI",
                     "repo": "walk-these-ways",
-                    "stars": 1458,
+                    "stars": 1457,
                     "topics": [
                       "go1",
                       "reinforcement-learning",
@@ -3490,7 +3462,7 @@
                 {
                   "node_type": "item",
                   "title": "LucasAlegre/sumo-rl",
-                  "description": null,
+                  "description": "LucasAlegre/sumo-rl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3523,7 +3495,7 @@
                 {
                   "node_type": "item",
                   "title": "minerllabs/minerl",
-                  "description": null,
+                  "description": "minerllabs/minerl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3544,7 +3516,7 @@
                 {
                   "node_type": "item",
                   "title": "utiasDSL/safe-control-gym",
-                  "description": null,
+                  "description": "learnsyslab/safe-control-gym",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3557,7 +3529,7 @@
                     "open_issues": 6,
                     "owner": "learnsyslab",
                     "repo": "safe-control-gym",
-                    "stars": 919,
+                    "stars": 918,
                     "topics": [
                       "cartpole",
                       "casadi",
@@ -3578,7 +3550,7 @@
                 {
                   "node_type": "item",
                   "title": "benelot/pybullet-gym",
-                  "description": null,
+                  "description": "benelot/pybullet-gym",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3603,7 +3575,7 @@
                 {
                   "node_type": "item",
                   "title": "erlerobot/gym-gazebo",
-                  "description": null,
+                  "description": "erlerobot/gym-gazebo",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3633,7 +3605,7 @@
                 {
                   "node_type": "item",
                   "title": "Farama-Foundation/MiniWorld",
-                  "description": null,
+                  "description": "Farama-Foundation/Miniworld",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3654,7 +3626,7 @@
                 {
                   "node_type": "item",
                   "title": "qgallouedec/panda-gym",
-                  "description": null,
+                  "description": "qgallouedec/panda-gym",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3711,7 +3683,7 @@
                 {
                   "node_type": "item",
                   "title": "openai/safety-gym",
-                  "description": null,
+                  "description": "openai/safety-gym",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3724,7 +3696,7 @@
                     "open_issues": 16,
                     "owner": "openai",
                     "repo": "safety-gym",
-                    "stars": 602,
+                    "stars": 601,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:20:09.879Z"
@@ -3732,7 +3704,7 @@
                 {
                   "node_type": "item",
                   "title": "thedimlebowski/Trading-Gym",
-                  "description": null,
+                  "description": "thedimlebowski/Trading-Gym",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3753,7 +3725,7 @@
                 {
                   "node_type": "item",
                   "title": "Unity-Technologies/obstacle-tower-env",
-                  "description": null,
+                  "description": "Unity-Technologies/obstacle-tower-env",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3780,7 +3752,7 @@
                 {
                   "node_type": "item",
                   "title": "facebookresearch/minihack",
-                  "description": null,
+                  "description": "facebookresearch/minihack",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3801,7 +3773,7 @@
                 {
                   "node_type": "item",
                   "title": "eugenevinitsky/sequential_social_dilemma_games",
-                  "description": null,
+                  "description": "eugenevinitsky/sequential_social_dilemma_games",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3822,7 +3794,7 @@
                 {
                   "node_type": "item",
                   "title": "Healthcare-Robotics/assistive-gym",
-                  "description": null,
+                  "description": "Healthcare-Robotics/assistive-gym",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3849,7 +3821,7 @@
                 {
                   "node_type": "item",
                   "title": "arex18/rocket-lander",
-                  "description": null,
+                  "description": "arex18/rocket-lander",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3870,7 +3842,7 @@
                 {
                   "node_type": "item",
                   "title": "osudrl/cassie-mujoco-sim",
-                  "description": null,
+                  "description": "osudrl/cassie-mujoco-sim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3891,7 +3863,7 @@
                 {
                   "node_type": "item",
                   "title": "openai/gym-soccer",
-                  "description": null,
+                  "description": "openai/gym-soccer",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3912,7 +3884,7 @@
                 {
                   "node_type": "item",
                   "title": "robotology/gym-ignition",
-                  "description": null,
+                  "description": "robotology-legacy/gym-ignition",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3947,7 +3919,7 @@
                 {
                   "node_type": "item",
                   "title": "twitter/torch-twrl",
-                  "description": null,
+                  "description": "twitter-archive/torch-twrl",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3968,7 +3940,7 @@
                 {
                   "node_type": "item",
                   "title": "denisyarats/dmc2gym",
-                  "description": null,
+                  "description": "denisyarats/dmc2gym",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3996,7 +3968,7 @@
                 {
                   "node_type": "item",
                   "title": "nadavbh12/Retro-Learning-Environment",
-                  "description": null,
+                  "description": "nadavbh12/Retro-Learning-Environment",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4023,7 +3995,7 @@
                 {
                   "node_type": "item",
                   "title": "ppaquette/gym-doom",
-                  "description": null,
+                  "description": "ppaquette/gym-doom",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4044,7 +4016,7 @@
                 {
                   "node_type": "item",
                   "title": "duckietown/gym-duckietown",
-                  "description": null,
+                  "description": "duckietown/gym-duckietown",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4071,7 +4043,7 @@
                 {
                   "node_type": "item",
                   "title": "ucuapps/modelicagym",
-                  "description": null,
+                  "description": "ucuapps/modelicagym",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4097,10 +4069,10 @@
                 {
                   "node_type": "item",
                   "title": "huggingface/gym-xarm",
-                  "description": null,
+                  "description": "huggingface/gym-xarm",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "A gym environment for xArm",
                     "homepage": null,
                     "id": 779641498,
@@ -4118,7 +4090,7 @@
                 {
                   "node_type": "item",
                   "title": "kngwyu/mujoco-maze",
-                  "description": null,
+                  "description": "kngwyu/mujoco-maze",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4139,7 +4111,7 @@
                 {
                   "node_type": "item",
                   "title": "dartsim/gym-dart",
-                  "description": null,
+                  "description": "dartsim/gym-dart",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4168,7 +4140,7 @@
                 {
                   "node_type": "item",
                   "title": "Another awesome list: Phylliade/awesome-openai-gym-environments",
-                  "description": null,
+                  "description": "Phylliade/awesome-openai-gym-environments",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4194,7 +4166,7 @@
                 {
                   "node_type": "item",
                   "title": "Roboy/gym-roboy",
-                  "description": null,
+                  "description": "Roboy/gym-roboy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4220,7 +4192,7 @@
                     {
                       "node_type": "item",
                       "title": "stanfordnmbl/osim-rl",
-                      "description": null,
+                      "description": "stanfordnmbl/osim-rl",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4251,7 +4223,7 @@
                     {
                       "node_type": "item",
                       "title": "UtkarshMishra04/bioimitation-gym",
-                      "description": null,
+                      "description": "UtkarshMishra04/bioimitation-gym",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4297,7 +4269,7 @@
                         "open_issues": 11,
                         "owner": "citylearn-project",
                         "repo": "CityLearn",
-                        "stars": 645,
+                        "stars": 646,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:20:09.879Z"
@@ -4305,7 +4277,7 @@
                     {
                       "node_type": "item",
                       "title": "upb-lea/gym-electric-motor",
-                      "description": null,
+                      "description": "upb-lea/gym-electric-motor",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4318,7 +4290,7 @@
                         "open_issues": 34,
                         "owner": "upb-lea",
                         "repo": "gym-electric-motor",
-                        "stars": 430,
+                        "stars": 431,
                         "topics": [
                           "benchmark",
                           "converters",
@@ -4339,7 +4311,7 @@
                     {
                       "node_type": "item",
                       "title": "upb-lea/openmodelica-microgrid-gym",
-                      "description": null,
+                      "description": "upb-lea/openmodelica-microgrid-gym",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4378,7 +4350,7 @@
                     {
                       "node_type": "item",
                       "title": "tobirohrer/building-energy-storage-simulation",
-                      "description": null,
+                      "description": "tobirohrer/building-energy-storage-simulation",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4415,7 +4387,7 @@
                     {
                       "node_type": "item",
                       "title": "JKCooper2/gym-bandits",
-                      "description": null,
+                      "description": "JKCooper2/gym-bandits",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -4436,7 +4408,7 @@
                     {
                       "node_type": "item",
                       "title": "ThomasLecat/gym-bandit-environments",
-                      "description": null,
+                      "description": "ThomasLecat/gym-bandit-environments",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4457,7 +4429,7 @@
                     {
                       "node_type": "item",
                       "title": "diegoalejogm/openai-k-armed-bandits",
-                      "description": null,
+                      "description": "diegoalejogm/openai-k-armed-bandits",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4478,7 +4450,7 @@
                     {
                       "node_type": "item",
                       "title": "magni84/gym_bandits",
-                      "description": null,
+                      "description": "magni84/gym_bandits",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4507,10 +4479,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T05:15:31Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "Farama-Foundation",
                 "repo": "Gymnasium",
-                "stars": 12608,
+                "stars": 12613,
                 "topics": [
                   "api",
                   "gym",
@@ -4527,7 +4499,7 @@
                 {
                   "node_type": "item",
                   "title": "Unity-Technologies/marathon-envs",
-                  "description": null,
+                  "description": "Unity-Technologies/marathon-envs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4584,7 +4556,7 @@
                 {
                   "node_type": "item",
                   "title": "LucasAlegre/sumo-rl",
-                  "description": null,
+                  "description": "LucasAlegre/sumo-rl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4617,7 +4589,7 @@
                 {
                   "node_type": "item",
                   "title": "Farama-Foundation/MAgent2",
-                  "description": null,
+                  "description": "Farama-Foundation/MAgent2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4627,7 +4599,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-13T23:34:38Z",
-                    "open_issues": 18,
+                    "open_issues": 19,
                     "owner": "Farama-Foundation",
                     "repo": "MAgent2",
                     "stars": 967,
@@ -4643,8 +4615,8 @@
                 "id": 235012937,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:34:15Z",
-                "open_issues": 51,
+                "last_commit": "2026-10-03T00:10:56Z",
+                "open_issues": 49,
                 "owner": "Farama-Foundation",
                 "repo": "PettingZoo",
                 "stars": 3524,
@@ -4715,7 +4687,7 @@
             {
               "node_type": "item",
               "title": "google-research/rlds",
-              "description": null,
+              "description": "google-research/rlds",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4796,7 +4768,7 @@
                 "open_issues": 94,
                 "owner": "stepjam",
                 "repo": "RLBench",
-                "stars": 1823,
+                "stars": 1824,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.879Z"
@@ -4913,7 +4885,7 @@
         {
           "node_type": "item",
           "title": "terryum/awesome-deep-learning-papers#new-papers",
-          "description": null,
+          "description": "terryum/awesome-deep-learning-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4926,7 +4898,7 @@
             "open_issues": 38,
             "owner": "terryum",
             "repo": "awesome-deep-learning-papers",
-            "stars": 26202,
+            "stars": 26199,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -4938,7 +4910,7 @@
         {
           "node_type": "item",
           "title": "tigerneil/awesome-deep-rl",
-          "description": null,
+          "description": "tigerneil/awesome-deep-rl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4980,7 +4952,7 @@
         {
           "node_type": "item",
           "title": "hanjuku-kaso/awesome-offline-rl",
-          "description": null,
+          "description": "hanjuku-kaso/awesome-offline-rl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5008,7 +4980,7 @@
         {
           "node_type": "item",
           "title": "kengz/awesome-deep-rl",
-          "description": null,
+          "description": "kengz/awesome-deep-rl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5035,7 +5007,7 @@
         {
           "node_type": "item",
           "title": "wwxFromTju/awesome-reinforcement-learning-lib",
-          "description": null,
+          "description": "wwxFromTju/awesome-reinforcement-learning-lib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5060,7 +5032,7 @@
         {
           "node_type": "item",
           "title": "williamd4112/awesome-deep-reinforcement-learning",
-          "description": null,
+          "description": "williamd4112/awesome-deep-reinforcement-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5083,7 +5055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:28:44.751Z",
+    "last_updated": "2026-10-03T04:43:36.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list for Deep Reinforcement Learning (DRL): software frameworks, models, datasets, gyms, baselines...",
