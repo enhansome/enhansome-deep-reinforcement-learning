@@ -63,33 +63,33 @@ To accomplish this, includes general Machine Learning (ML), Neural Networks (NN)
 
 ### NN/DNN Software Frameworks
 
-* Docker images with several pre-installed software frameworks: [1](https://github.com/ufoym/deepo) ⭐ 6,279 | 🐛 0 | 🌐 Python | 📅 2026-03-25, [2](https://github.com/floydhub/dl-docker) ⭐ 3,855 | 🐛 68 | 🌐 Python | 📅 2019-08-21, [3](https://github.com/bethgelab/docker-deeplearning) ⭐ 9 | 🐛 4 | 🌐 Python | 📅 2019-05-07.
+* Docker images with several pre-installed software frameworks: [1](https://github.com/ufoym/deepo) ⭐ 6,280 | 🐛 0 | 🌐 Python | 📅 2026-03-25, [2](https://github.com/floydhub/dl-docker) ⭐ 3,855 | 🐛 68 | 🌐 Python | 📅 2019-08-21, [3](https://github.com/bethgelab/docker-deeplearning) ⭐ 9 | 🐛 4 | 🌐 Python | 📅 2019-05-07.
 * Projects to port trained models from one software framework to another: [1](https://github.com/ysh329/deep-learning-model-convertor) ⭐ 3,234 | 🐛 2 | 📅 2023-06-26
 * Overview: [presentation](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf) ([permalink](https://github.com/jgvictores/awesome-deep-reinforcement-learning/blob/143a885cc10b4331b9b3fa3e1a9436d5325676af/doc/inria2017DLFrameworks.pdf)).
 
 Attempling to order software frameworks by popularity (in practice should look at more aspects such as last updates, forks, etc):
 
-* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 201,153 | 🐛 3,438 | 🌐 C++ | 📅 2026-10-21 [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google). [![GitHub stars](https://img.shields.io/github/stars/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow/stargazers) ⭐ 201,153 | 🐛 3,438 | 🌐 C++ | 📅 2026-10-21 ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow?label=last%20update)
+* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 201,178 | 🐛 3,450 | 🌐 C++ | 📅 2026-10-22 [TensorFlow](https://www.tensorflow.org) (low-level) (API: Python most stable, JavaScript, C++, Java...) (support: Google). [![GitHub stars](https://img.shields.io/github/stars/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow/stargazers) ⭐ 201,178 | 🐛 3,450 | 🌐 C++ | 📅 2026-10-22 ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow?label=last%20update)
   * Tutorials: [1](https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4)
-* [pytorch/pytorch](https://github.com/pytorch/pytorch) ⭐ 104,937 | 🐛 17,650 | 🌐 Python | 📅 2026-10-21 [PyTorch](https://pytorch.org/) (API: Python) (support: Facebook AI Research). [![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch)](https://github.com/pytorch/pytorch/stargazers) ⭐ 104,937 | 🐛 17,650 | 🌐 Python | 📅 2026-10-21 ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/pytorch?label=last%20update)
-* [keras-team/keras](https://github.com/keras-team/keras) ⭐ 64,378 | 🐛 248 | 🌐 Python | 📅 2026-10-20 [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python) (support: Google). [wikipedia](https://en.wikipedia.org/wiki/Keras) [![GitHub stars](https://img.shields.io/github/stars/keras-team/keras)](https://github.com/keras-team/keras/stargazers) ⭐ 64,378 | 🐛 248 | 🌐 Python | 📅 2026-10-20 ![GitHub last commit](https://img.shields.io/github/last-commit/keras-team/keras?label=last%20update)
-  * Examples/tutorials: [keras](https://github.com/keras-team/keras/blob/master/examples) ⭐ 64,378 | 🐛 248 | 🌐 Python | 📅 2026-10-20, [1](https://www.datacamp.com/community/tutorials/deep-learning-python), [2](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
+* [pytorch/pytorch](https://github.com/pytorch/pytorch) ⭐ 104,976 | 🐛 17,691 | 🌐 Python | 📅 2026-10-22 [PyTorch](https://pytorch.org/) (API: Python) (support: Facebook AI Research). [![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch)](https://github.com/pytorch/pytorch/stargazers) ⭐ 104,976 | 🐛 17,691 | 🌐 Python | 📅 2026-10-22 ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/pytorch?label=last%20update)
+* [keras-team/keras](https://github.com/keras-team/keras) ⭐ 64,377 | 🐛 269 | 🌐 Python | 📅 2026-10-21 [Keras](https://keras.io) (layer over: TensorFlow, theano...) (API: Python) (support: Google). [wikipedia](https://en.wikipedia.org/wiki/Keras) [![GitHub stars](https://img.shields.io/github/stars/keras-team/keras)](https://github.com/keras-team/keras/stargazers) ⭐ 64,377 | 🐛 269 | 🌐 Python | 📅 2026-10-21 ![GitHub last commit](https://img.shields.io/github/last-commit/keras-team/keras?label=last%20update)
+  * Examples/tutorials: [keras](https://github.com/keras-team/keras/blob/master/examples) ⭐ 64,377 | 🐛 269 | 🌐 Python | 📅 2026-10-21, [1](https://www.datacamp.com/community/tutorials/deep-learning-python), [2](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
   * Book: Antonio Gulli and Sujit Pal, "Deep Learning with Keras", 2017. [safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781787128422)
   * Book: Mike Bernico, "Deep Learning Quick Reference", 2018. [safari](https://proquest.safaribooksonline.com/book/programming/machine-learning/9781788837996)
   * Used internally by <http://www.fast.ai>
-* [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) ⭐ 24,127 | 🐛 1,455 | 🌐 C++ | 📅 2026-10-21: PArallel Distributed Deep LEarning
+* [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) ⭐ 24,125 | 🐛 1,456 | 🌐 C++ | 📅 2026-10-21: PArallel Distributed Deep LEarning
 * [Sonnet](https://deepmind.com/blog/open-sourcing-sonnet/) ([GitHub](https://github.com/deepmind/sonnet) ⭐ 9,977 | 🐛 45 | 🌐 Python | 📅 2026-10-20) (layer over: TensorFlow) (API: Python) (support: DeepMind)
 * Tensorpack ([GitHub](https://github.com/ppwwyyxx/tensorpack) ⭐ 6,285 | 🐛 14 | 🌐 Python | 📅 2023-08-06) (a tensorflow wrapper)
 * tiny-dnn ([GitHub](https://github.com/tiny-dnn/tiny-dnn) ⭐ 6,028 | 🐛 297 | 🌐 C++ | 📅 2022-04-17) (API: C++ (C++14))
-* [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer) ⭐ 5,920 | 🐛 15 | 🌐 Python | 📅 2023-08-28) (API: Python) (support: Preferred Networks)
+* [Chainer](http://www.chainer.org) ([GitHub](https://github.com/chainer/chainer) ⭐ 5,920 | 🐛 16 | 🌐 Python | 📅 2023-08-28) (API: Python) (support: Preferred Networks)
   * In addition to chainerrl below, there is also a chainercv: [1](https://github.com/chainer/chainercv) ⚠️ Archived
   * Define-by-Run rather than Define-and-Run.
-* [DALI](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) ([NVIDIA/DALI](https://github.com/NVIDIA/DALI) ⭐ 5,780 | 🐛 218 | 🌐 C++ | 📅 2026-10-20): A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
+* [DALI](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) ([NVIDIA/DALI](https://github.com/NVIDIA/DALI) ⭐ 5,780 | 🐛 219 | 🌐 C++ | 📅 2026-10-21): A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 * [flashlight/flashlight](https://github.com/flashlight/flashlight) ⭐ 5,479 | 🐛 126 | 🌐 C++ | 📅 2026-10-07 [![GitHub stars](https://img.shields.io/github/stars/flashlight/flashlight)](https://github.com/flashlight/flashlight/stargazers) ⭐ 5,479 | 🐛 126 | 🌐 C++ | 📅 2026-10-07 ![GitHub last commit](https://img.shields.io/github/last-commit/flashlight/flashlight?label=last%20update)
-* Ignite ([GitHub](https://github.com/pytorch/ignite) ⭐ 4,796 | 🐛 218 | 🌐 Python | 📅 2026-10-20) (a pytorch wrapper)
+* Ignite ([GitHub](https://github.com/pytorch/ignite) ⭐ 4,795 | 🐛 222 | 🌐 Python | 📅 2026-10-20) (a pytorch wrapper)
 * <https://github.com/janhuenermann/neurojs> ⭐ 4,367 | 🐛 6 | 🌐 JavaScript | 📅 2023-10-10 [![GitHub stars](https://img.shields.io/github/stars/janhuenermann/neurojs)](https://github.com/janhuenermann/neurojs/stargazers) ⭐ 4,367 | 🐛 6 | 🌐 JavaScript | 📅 2023-10-10 ![GitHub last commit](https://img.shields.io/github/last-commit/janhuenermann/neurojs?label=last%20update)
-* [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) ⭐ 4,070 | 🐛 166 | 🌐 C++ | 📅 2026-10-21 (API: C++)
-* [jittor](https://github.com/Jittor/jittor) ⭐ 3,239 | 🐛 286 | 🌐 Python | 📅 2026-10-21 (API: Python)
+* [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) ⭐ 4,071 | 🐛 162 | 🌐 C++ | 📅 2026-10-22 (API: C++)
+* [jittor](https://github.com/Jittor/jittor) ⭐ 3,240 | 🐛 286 | 🌐 Python | 📅 2026-10-22 (API: Python)
 * [sony/nnabla](https://github.com/sony/nnabla) ⚠️ Archived (API: C++)
 * TransmogrifAI ([GitHub](https://github.com/salesforce/TransmogrifAI) ⭐ 2,280 | 🐛 46 | 🌐 Scala | 📅 2026-06-02) (API: Scala)
 * [ONNX](https://onnx.ai)
@@ -100,13 +100,13 @@ Attempling to order software frameworks by popularity (in practice should look a
 * [ml5](https://ml5js.org/) (API: JavaScript) (a tensorflow\.js wrapper)
 * [DL4J](https://deeplearning4j.org/) (API: Java)
 * [Torch](http://torch.ch/) (API: Lua) (support: Facebook AI Research).
-  * Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn) ⭐ 12,125 | 🐛 111 | 🌐 Lua | 📅 2023-10-24
+  * Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models: [1](https://github.com/karpathy/char-rnn) ⭐ 12,127 | 🐛 111 | 🌐 Lua | 📅 2023-10-24
 * [CoreML](https://developer.apple.com/documentation/coreml) (API: Objective-C) (support: Apple)
 * [OpenNN](http://www.opennn.net) (API: C++)
 * [PyBrain](http://www.pybrain.org) (API: Python)
 * [Caffe](http://caffe.berkeleyvision.org/) (very used, but down here because [caffe2 merged into pytorch](https://caffe2.ai/blog/2018/05/02/Caffe2_PyTorch_1_0.html))
 * theano (very used, but down here because [MILA stopped developing](https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ))
-  * Still many tutorials: <https://github.com/lisa-lab/DeepLearningTutorials> ⭐ 4,149 | 🐛 22 | 🌐 Python | 📅 2020-09-30
+  * Still many tutorials: <https://github.com/lisa-lab/DeepLearningTutorials> ⭐ 4,150 | 🐛 22 | 🌐 Python | 📅 2020-09-30
 
 ### NN/DNN Models
 
@@ -116,7 +116,7 @@ Overviews: [1](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo
 
 #### Image Segmentation Models
 
-* Detectron (2018). Ross Girshick et Al; FAIR. [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron/) ⚠️ Archived and [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,937 | 🐛 594 | 🌐 Python | 📅 2026-10-20
+* Detectron (2018). Ross Girshick et Al; FAIR. [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron/) ⚠️ Archived and [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,943 | 🐛 594 | 🌐 Python | 📅 2026-10-20
 * FCIS (2017). "Fully Convolutional Instance-aware Semantic Segmentation". [arxiv](https://arxiv.org/abs/1611.07709). Coded in caffe but released in [mxnet](https://github.com/msracver/FCIS) ⭐ 1,562 | 🐛 92 | 🌐 Cuda | 📅 2021-09-27, port: [chainer](https://github.com/knorth55/chainer-fcis) ⭐ 42 | 🐛 3 | 🌐 Python | 📅 2020-05-08.
 * U-Net (2015); Olaf Ronneberger et Al; "Convolutional Networks for Biomedical Image Segmentation"; [arxiv](https://arxiv.org/abs/1505.04597). [caffe](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
 
@@ -144,10 +144,10 @@ Overviews: [1](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need
 
 #### Graph/Manifold/Network Convolutional Models
 
-* [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers) ⭐ 16,847 | 🐛 15 | 📅 2023-12-20
-* [DLG](http://dgl.ai/): [dmlc/dgl](https://github.com/dmlc/dgl) ⭐ 14,286 | 🐛 610 | 🌐 Python | 📅 2025-07-31
+* [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers) ⭐ 16,848 | 🐛 15 | 📅 2023-12-20
+* [DLG](http://dgl.ai/): [dmlc/dgl](https://github.com/dmlc/dgl) ⭐ 14,284 | 🐛 610 | 🌐 Python | 📅 2025-07-31
 * [chihming/awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) ⭐ 2,631 | 🐛 4 | 📅 2020-12-08
-* [tensorflow/gnn](https://github.com/tensorflow/gnn) ⭐ 1,546 | 🐛 47 | 🌐 Python | 📅 2026-10-21
+* [tensorflow/gnn](https://github.com/tensorflow/gnn) ⭐ 1,547 | 🐛 46 | 🌐 Python | 📅 2026-10-21
 * "Signed Graph Convolutional Network" (ICDM 2018); [pytorch](https://github.com/benedekrozemberczki/SGCN) ⭐ 278 | 🐛 1 | 🌐 Python | 📅 2023-03-18
 * [Geometric deep learning](http://geometricdeeplearning.com)
 
@@ -159,12 +159,12 @@ Tutorial: [pytorch](https://github.com/leongatys/GenerativeImageModellingWithDNN
 * Auto-Regressive Generative Models: PixelRNN, PixelCNN++... [ref](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
 * Style Transfer:
   * Deep Photo Style Transfer (2017). Fujun Luan et Al, "Deep Photo Style Transfer"; [arxiv](https://arxiv.org/abs/1703.07511). [torch+matlab](https://github.com/luanfujun/deep-photo-styletransfer) ⭐ 9,982 | 🐛 34 | 🌐 Matlab | 📅 2021-08-02
-  * Fujun Luan et Al (2018), "Deep Painterly Harmonization"; [arxiv](https://arxiv.org/abs/1804.03189). [torch+matlab](https://github.com/luanfujun/deep-painterly-harmonization) ⭐ 6,033 | 🐛 34 | 🌐 Cuda | 📅 2021-08-02
-  * Neuralart (2015). Leon A. Gatys et Al; "A Neural Algorithm of Artistic Style"; [arxiv](https://arxiv.org/abs/1508.06576). Uses base+style+target as inputs and optimizes for target via BFGS. [tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow) ⭐ 493 | 🐛 5 | 🌐 Python | 📅 2022-11-27, [torch](https://github.com/jcjohnson/neural-style) ⭐ 18,266 | 🐛 316 | 🌐 Lua | 📅 2018-02-23, keras [1](https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py) ⭐ 64,378 | 🐛 248 | 🌐 Python | 📅 2026-10-20 [2](https://github.com/titu1994/Neural-Style-Transfer) ⭐ 2,286 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-02-13 [3](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-fun-with-deep-learning.md) ⭐ 3,135 | 🐛 3 | 🌐 CSS | 📅 2023-11-22 [4](https://medium.com/mlreview/making-ai-art-with-style-transfer-using-keras-8bb5fa44b216)
+  * Fujun Luan et Al (2018), "Deep Painterly Harmonization"; [arxiv](https://arxiv.org/abs/1804.03189). [torch+matlab](https://github.com/luanfujun/deep-painterly-harmonization) ⭐ 6,034 | 🐛 34 | 🌐 Cuda | 📅 2021-08-02
+  * Neuralart (2015). Leon A. Gatys et Al; "A Neural Algorithm of Artistic Style"; [arxiv](https://arxiv.org/abs/1508.06576). Uses base+style+target as inputs and optimizes for target via BFGS. [tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow) ⭐ 493 | 🐛 5 | 🌐 Python | 📅 2022-11-27, [torch](https://github.com/jcjohnson/neural-style) ⭐ 18,266 | 🐛 316 | 🌐 Lua | 📅 2018-02-23, keras [1](https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py) ⭐ 64,377 | 🐛 269 | 🌐 Python | 📅 2026-10-21 [2](https://github.com/titu1994/Neural-Style-Transfer) ⭐ 2,285 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-02-13 [3](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-fun-with-deep-learning.md) ⭐ 3,135 | 🐛 3 | 🌐 CSS | 📅 2023-11-22 [4](https://medium.com/mlreview/making-ai-art-with-style-transfer-using-keras-8bb5fa44b216)
   * Tutorial: [tensorflow](http://www.subsubroutine.com/sub-subroutine/2016/11/12/painting-like-van-gogh-with-convolutional-neural-networks)
 * GANs:
-  * [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) ⭐ 14,696 | 🐛 40 | 🌐 Python | 📅 2023-10-06
-  * [CycleGAN](https://junyanz.github.io/CycleGAN/) (2017). Jun-Yan Zhu et Al; Berkeley; "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks". [torch](https://github.com/junyanz/CycleGAN) ⭐ 12,875 | 🐛 59 | 🌐 Lua | 📅 2023-09-12 and migrated to [pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) ⭐ 25,263 | 🐛 589 | 🌐 Python | 📅 2025-08-06.
+  * [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) ⭐ 14,697 | 🐛 40 | 🌐 Python | 📅 2023-10-06
+  * [CycleGAN](https://junyanz.github.io/CycleGAN/) (2017). Jun-Yan Zhu et Al; Berkeley; "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks". [torch](https://github.com/junyanz/CycleGAN) ⭐ 12,875 | 🐛 59 | 🌐 Lua | 📅 2023-09-12 and migrated to [pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) ⭐ 25,264 | 🐛 589 | 🌐 Python | 📅 2025-08-06.
   * Terro Karas et Al (2018); NVIDIA; "Progressive Growing of GANs for Improved Quality, Stability, and Variation"; [arxiv](https://arxiv.org/abs/1710.10196). [tensorflow](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,176 | 🐛 11 | 🌐 Python | 📅 2022-02-17
   * BigGAN (2018); "Large Scale GAN Training for High Fidelity Natural Image Synthesis"; [arxiv](https://arxiv.org/abs/1809.11096). [pytorch](https://github.com/AaronLeong/BigGAN-pytorch) ⭐ 504 | 🐛 22 | 🌐 Python | 📅 2019-02-23
   * CANs (2017). Ahmed Elgammal et Al; Berkeley; "CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms"; [arxiv](https://arxiv.org/abs/1706.07068). [tensorflow](https://github.com/mlberkeley/Creative-Adversarial-Networks) ⭐ 221 | 🐛 18 | 🌐 Python | 📅 2019-10-20
@@ -205,7 +205,7 @@ Can be trained via Back Propagation Through Time (BPTT). Also see Connectionist 
 
 Lists of lists before citing the classics:
 
-* [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,656 | 🐛 165 | 📅 2026-10-20
+* [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,666 | 🐛 164 | 📅 2026-10-21
 * Wikipedia: <https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research>
 * Google: <https://ai.google/tools/datasets>
 * Kaggle: <https://www.kaggle.com/datasets>
@@ -270,12 +270,12 @@ Lists of lists before citing the classics:
 
 ### NN/DNN Pretrained Models
 
-* Several pre-trained models: [keras web](https://keras.io/applications), [keras 1](https://github.com/keras-team/keras/tree/master/keras/applications) ⭐ 64,378 | 🐛 248 | 🌐 Python | 📅 2026-10-20, [keras 2](https://github.com/keras-team/keras-applications) ⚠️ Archived, [pytorch](https://pytorch.org/docs/stable/torchvision/models.html), [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo) ⭐ 34,554 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31, [ONNX](https://github.com/onnx/models) ⭐ 9,821 | 🐛 214 | 🌐 Jupyter Notebook | 📅 2026-10-03 (pytorch/caffe2).
+* Several pre-trained models: [keras web](https://keras.io/applications), [keras 1](https://github.com/keras-team/keras/tree/master/keras/applications) ⭐ 64,377 | 🐛 269 | 🌐 Python | 📅 2026-10-21, [keras 2](https://github.com/keras-team/keras-applications) ⚠️ Archived, [pytorch](https://pytorch.org/docs/stable/torchvision/models.html), [caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo) ⭐ 34,552 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31, [ONNX](https://github.com/onnx/models) ⭐ 9,823 | 🐛 214 | 🌐 Jupyter Notebook | 📅 2026-10-03 (pytorch/caffe2).
 * CIFAR-10 and CIFAR-100:
   * VGG16 trained on CIFAR-10 and CIFAR-100: [keras](https://github.com/geifmany/cifar-vgg) ⭐ 226 | 🐛 1 | 🌐 Python | 📅 2021-10-14 / [keras CIFAR-10 weights](https://drive.google.com/open?id=0B4odNGNGJ56qVW9JdkthbzBsX28) / [keras CIFAR-100 weights](https://drive.google.com/open?id=0B4odNGNGJ56qTEdnT1RjTU44Zms)
   * CNN trained on CIFAR-100 tutorial: [keras](https://andrewkruger.github.io/projects/2017-08-05-keras-convolutional-neural-network-for-cifar-100)
 * ImageNet and ILSVRC:
-  * VGG16, VGG19, ResNet50, InceptionV3, InceptionResNetV2, Xception trained on ImageNet: [keras by keras](https://github.com/keras-team/keras/tree/master/keras/applications) ⭐ 64,378 | 🐛 248 | 🌐 Python | 📅 2026-10-20 ([permalink](https://github.com/keras-team/keras/tree/e15533e6c725dca8c37a861aacb13ef149789433/keras/applications) ⭐ 64,378 | 🐛 248 | 🌐 Python | 📅 2026-10-20) / [keras by kaggle](https://www.kaggle.com/keras) / [pytorch by kaggle](https://www.kaggle.com/pytorch)
+  * VGG16, VGG19, ResNet50, InceptionV3, InceptionResNetV2, Xception trained on ImageNet: [keras by keras](https://github.com/keras-team/keras/tree/master/keras/applications) ⭐ 64,377 | 🐛 269 | 🌐 Python | 📅 2026-10-21 ([permalink](https://github.com/keras-team/keras/tree/e15533e6c725dca8c37a861aacb13ef149789433/keras/applications) ⭐ 64,377 | 🐛 269 | 🌐 Python | 📅 2026-10-21) / [keras by kaggle](https://www.kaggle.com/keras) / [pytorch by kaggle](https://www.kaggle.com/pytorch)
   * VGG16 trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/)
   * VGGNet, ResNet, Inception, and Xception trained on ImageNet (tutorial): [keras](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
   * VGG16 trained on ILSVRC: [caffe by original VGG author](https://gist.github.com/ksimonyan/211839e770f7b538e2d8) / ported (tutorials): [tensorflow](https://www.cs.toronto.edu/~frossard/post/vgg16/) / [keras](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3) / [keras ImageNet weights](https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc)
@@ -290,7 +290,7 @@ Lists of lists before citing the classics:
 * Activation functions: Linear, Sigmoid, Hard Sigmoid, Logit, Hyperbolic tangent (TanH), SoftSign, Rectified Linear Unit (ReLU), Leaky ReLU (LeakyReLU or LReLU), Parametrized or Parametric ReLU (PReLU), Thresholded ReLU (Thresholded ReLU), Exponential Linear Unit (ELU), Scaled ELU (SELU), SoftPlus, SoftMax, Swish. [wikipedia](https://en.wikipedia.org/wiki/Activation_function), [keras](https://keras.io/activations/), [keras (advanced)](https://keras.io/layers/advanced-activations/), [ref](https://towardsdatascience.com/deep-study-of-a-not-very-deep-neural-network-part-2-activation-functions-fd9bd8d406fc).
 * Regularization techniques (reduce overfitting and/or control the complexity of model; may be applied to kernel (weight matrix), to bias vector, or to activity (activation of the layer output)): L1(lasso)/L2(ridge)/ElasticNet(L1/L2)/Maxnorm regularization ([keras](https://keras.io/regularizers/)), dropout, batch and weight normalization, Local Response Normalisation (LRN), data augmentation (image distortions, scale jittering...), early stopping, gradient checking.
 * Optimizers: [keras](https://keras.io/optimizers/), [ref](https://arxiv.org/pdf/1609.04747.pdf)
-  * Gradient-free: [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) ⭐ 4,217 | 🐛 143 | 🌐 Python | 📅 2026-10-20
+  * Gradient-free: [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) ⭐ 4,217 | 🐛 144 | 🌐 Python | 📅 2026-10-20
   * Gradient descent variants: Batch gradient descent, Stochastic gradient descent (SGD), Mini-batch gradient descent.
   * Gradient descent optimization algorithms: Momentum, Nesterov accelerated gradient, Adagrad, Adadelta, RMSprop, Adam, AdaMax, Nadam, AMSGrad, Eve.
   * Parallelizing and distributing SGD: Hogwild!, Downpour SGD, Delay-tolerant Algorithms for SGD, TensorFlow, Elastic Averaging SGD.
@@ -307,7 +307,7 @@ Lists of lists before citing the classics:
 
 ### NN/DNN Visualization and Explanation
 
-* SHAP (SHapley Additive exPlanations): [slundberg/shap](https://github.com/slundberg/shap) ⭐ 25,823 | 🐛 997 | 🌐 Jupyter Notebook | 📅 2026-10-20
+* SHAP (SHapley Additive exPlanations): [slundberg/shap](https://github.com/slundberg/shap) ⭐ 25,825 | 🐛 996 | 🌐 Jupyter Notebook | 📅 2026-10-21
 * [tensorboardX](https://github.com/lanpa/tensorboardX) ⭐ 8,002 | 🐛 90 | 🌐 Python | 📅 2026-07-14: tensorboard for pytorch, chainer, mxnet, numpy...
 * Pytorch: [loss-landscape](https://github.com/tomgoldstein/loss-landscape) ⭐ 3,208 | 🐛 30 | 🌐 Python | 📅 2022-04-05, [gandissect](https://github.com/CSAILVision/gandissect) ⭐ 1,765 | 🐛 16 | 🌐 Python | 📅 2021-05-23
 * Keras: [keras](https://keras.io/visualization/), [1](https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/), [2](https://github.com/keplr-io/quiver) ⭐ 1,784 | 🐛 32 | 🌐 JavaScript | 📅 2020-09-04, [3](https://raghakot.github.io/keras-vis/), [4](https://www.kaggle.com/amarjeet007/visualize-cnn-with-keras)
@@ -396,32 +396,32 @@ REINFORCE (on-policy policy gradient; Williams, 1992), Deep Q-Network (DQN), Exp
 
 Attempting to order by popularity (in practice should look at more aspects such as last updates, forks, etc):
 
-* RLlib (part of Ray): [ray-project/ray](https://github.com/ray-project/ray) ⭐ 44,094 | 🐛 3,604 | 🌐 Python | 📅 2026-10-21 ([readthedocs (rllib)](http://ray.readthedocs.io/en/latest/rllib.html)) [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray)](https://github.com/ray-project/ray/stargazers) ⭐ 44,094 | 🐛 3,604 | 🌐 Python | 📅 2026-10-21 ![GitHub last commit](https://img.shields.io/github/last-commit/ray-project/ray?label=last%20update) (Ray total) (also covers multiagent)
-* [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,778 | 🐛 20 | 🌐 C# | 📅 2026-10-20 (Environments, Algorithms) (includes design of environments) [![GitHub stars](https://img.shields.io/github/stars/Unity-Technologies/ml-agents)](https://github.com/Unity-Technologies/ml-agents/stargazers) ⭐ 19,778 | 🐛 20 | 🌐 C# | 📅 2026-10-20 ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/ml-agents?label=last%20update)
-* [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) ⭐ 13,916 | 🐛 88 | 🌐 Python | 📅 2026-10-13 (advanced from [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) ⭐ 4,328 | 🐛 138 | 🌐 Python | 📅 2022-09-04 fork of [openai/baselines](https://github.com/openai/baselines) ⭐ 16,772 | 🐛 502 | 🌐 Python | 📅 2024-08-01) [![GitHub stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3)](https://github.com/DLR-RM/stable-baselines3/stargazers) ⭐ 13,916 | 🐛 88 | 🌐 Python | 📅 2026-10-13 ![GitHub last commit](https://img.shields.io/github/last-commit/DLR-RM/stable-baselines3?label=last%20update)
-* [thu-ml/tianshou](https://github.com/thu-ml/tianshou) ⭐ 11,035 | 🐛 144 | 🌐 Python | 📅 2026-04-03 (<https://tianshou.readthedocs.io>) [![GitHub stars](https://img.shields.io/github/stars/thu-ml/tianshou)](https://github.com/thu-ml/tianshou/stargazers) ⭐ 11,035 | 🐛 144 | 🌐 Python | 📅 2026-04-03 ![GitHub last commit](https://img.shields.io/github/last-commit/thu-ml/tianshou?label=last%20update)
-* [google/dopamine](https://github.com/google/dopamine) ⭐ 10,927 | 🐛 112 | 🌐 Jupyter Notebook | 📅 2026-03-24 (uses jax, tensorflow, keras) [![GitHub stars](https://img.shields.io/github/stars/google/dopamine)](https://github.com/google/dopamine/stargazers) ⭐ 10,927 | 🐛 112 | 🌐 Jupyter Notebook | 📅 2026-03-24 ![GitHub last commit](https://img.shields.io/github/last-commit/google/dopamine?label=last%20update)
-* [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) ⭐ 10,583 | 🐛 109 | 🌐 Python | 📅 2026-04-20 [![GitHub stars](https://img.shields.io/github/stars/vwxyzjn/cleanrl)](https://github.com/vwxyzjn/cleanrl/stargazers) ⭐ 10,583 | 🐛 109 | 🌐 Python | 📅 2026-04-20 ![GitHub last commit](https://img.shields.io/github/last-commit/vwxyzjn/cleanrl?label=last%20update)
-* [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) ⭐ 5,549 | 🐛 47 | 🌐 Python | 📅 2023-09-17 (uses keras) [![GitHub stars](https://img.shields.io/github/stars/keras-rl/keras-rl)](https://github.com/keras-rl/keras-rl/stargazers) ⭐ 5,549 | 🐛 47 | 🌐 Python | 📅 2023-09-17 ![GitHub last commit](https://img.shields.io/github/last-commit/keras-rl/keras-rl?label=last%20update)
+* RLlib (part of Ray): [ray-project/ray](https://github.com/ray-project/ray) ⭐ 44,102 | 🐛 3,585 | 🌐 Python | 📅 2026-10-22 ([readthedocs (rllib)](http://ray.readthedocs.io/en/latest/rllib.html)) [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray)](https://github.com/ray-project/ray/stargazers) ⭐ 44,102 | 🐛 3,585 | 🌐 Python | 📅 2026-10-22 ![GitHub last commit](https://img.shields.io/github/last-commit/ray-project/ray?label=last%20update) (Ray total) (also covers multiagent)
+* [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,782 | 🐛 21 | 🌐 C# | 📅 2026-10-21 (Environments, Algorithms) (includes design of environments) [![GitHub stars](https://img.shields.io/github/stars/Unity-Technologies/ml-agents)](https://github.com/Unity-Technologies/ml-agents/stargazers) ⭐ 19,782 | 🐛 21 | 🌐 C# | 📅 2026-10-21 ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/ml-agents?label=last%20update)
+* [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) ⭐ 13,917 | 🐛 88 | 🌐 Python | 📅 2026-10-13 (advanced from [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) ⭐ 4,326 | 🐛 138 | 🌐 Python | 📅 2022-09-04 fork of [openai/baselines](https://github.com/openai/baselines) ⭐ 16,770 | 🐛 502 | 🌐 Python | 📅 2024-08-01) [![GitHub stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3)](https://github.com/DLR-RM/stable-baselines3/stargazers) ⭐ 13,917 | 🐛 88 | 🌐 Python | 📅 2026-10-13 ![GitHub last commit](https://img.shields.io/github/last-commit/DLR-RM/stable-baselines3?label=last%20update)
+* [thu-ml/tianshou](https://github.com/thu-ml/tianshou) ⭐ 11,033 | 🐛 144 | 🌐 Python | 📅 2026-04-03 (<https://tianshou.readthedocs.io>) [![GitHub stars](https://img.shields.io/github/stars/thu-ml/tianshou)](https://github.com/thu-ml/tianshou/stargazers) ⭐ 11,033 | 🐛 144 | 🌐 Python | 📅 2026-04-03 ![GitHub last commit](https://img.shields.io/github/last-commit/thu-ml/tianshou?label=last%20update)
+* [google/dopamine](https://github.com/google/dopamine) ⭐ 10,926 | 🐛 112 | 🌐 Jupyter Notebook | 📅 2026-03-24 (uses jax, tensorflow, keras) [![GitHub stars](https://img.shields.io/github/stars/google/dopamine)](https://github.com/google/dopamine/stargazers) ⭐ 10,926 | 🐛 112 | 🌐 Jupyter Notebook | 📅 2026-03-24 ![GitHub last commit](https://img.shields.io/github/last-commit/google/dopamine?label=last%20update)
+* [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) ⭐ 10,588 | 🐛 109 | 🌐 Python | 📅 2026-04-20 [![GitHub stars](https://img.shields.io/github/stars/vwxyzjn/cleanrl)](https://github.com/vwxyzjn/cleanrl/stargazers) ⭐ 10,588 | 🐛 109 | 🌐 Python | 📅 2026-04-20 ![GitHub last commit](https://img.shields.io/github/last-commit/vwxyzjn/cleanrl?label=last%20update)
+* [deepmind/open\_spiel](https://github.com/deepmind/open_spiel) ⭐ 5,549 | 🐛 70 | 🌐 C++ | 📅 2026-10-20 (uses some tensorflow) [![GitHub stars](https://img.shields.io/github/stars/deepmind/open_spiel)](https://github.com/deepmind/open_spiel/stargazers) ⭐ 5,549 | 🐛 70 | 🌐 C++ | 📅 2026-10-20 ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/open_spiel?label=last%20update)
+* [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) ⭐ 5,548 | 🐛 47 | 🌐 Python | 📅 2023-09-17 (uses keras) [![GitHub stars](https://img.shields.io/github/stars/keras-rl/keras-rl)](https://github.com/keras-rl/keras-rl/stargazers) ⭐ 5,548 | 🐛 47 | 🌐 Python | 📅 2023-09-17 ![GitHub last commit](https://img.shields.io/github/last-commit/keras-rl/keras-rl?label=last%20update)
   * [SoyGema/Startcraft\_pysc2\_minigames](https://github.com/SoyGema/Startcraft_pysc2_minigames) ⭐ 133 | 🐛 0 | 🌐 Python | 📅 2026-05-24
-* [deepmind/open\_spiel](https://github.com/deepmind/open_spiel) ⭐ 5,547 | 🐛 74 | 🌐 C++ | 📅 2026-10-20 (uses some tensorflow) [![GitHub stars](https://img.shields.io/github/stars/deepmind/open_spiel)](https://github.com/deepmind/open_spiel/stargazers) ⭐ 5,547 | 🐛 74 | 🌐 C++ | 📅 2026-10-20 ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/open_spiel?label=last%20update)
 * <https://github.com/janhuenermann/neurojs> ⭐ 4,367 | 🐛 6 | 🌐 JavaScript | 📅 2023-10-10 [![GitHub stars](https://img.shields.io/github/stars/janhuenermann/neurojs)](https://github.com/janhuenermann/neurojs/stargazers) ⭐ 4,367 | 🐛 6 | 🌐 JavaScript | 📅 2023-10-10 ![GitHub last commit](https://img.shields.io/github/last-commit/janhuenermann/neurojs?label=last%20update)
 * [deepmind/acme](https://github.com/deepmind/acme) ⭐ 4,082 | 🐛 109 | 🌐 Python | 📅 2026-10-12 [![GitHub stars](https://img.shields.io/github/stars/deepmind/acme)](https://github.com/deepmind/acme/stargazers) ⭐ 4,082 | 🐛 109 | 🌐 Python | 📅 2026-10-12 ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/acme?label=last%20update)
-* [facebookresearch/rl](https://github.com/facebookresearch/rl) ⭐ 3,606 | 🐛 303 | 🌐 Python | 📅 2026-10-21 (uses pytorch) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/rl)](https://github.com/facebookresearch/rl/stargazers) ⭐ 3,606 | 🐛 303 | 🌐 Python | 📅 2026-10-21 ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/rl?label=last%20update)
-* [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) ⭐ 3,388 | 🐛 6 | 🌐 Python | 📅 2026-07-08 [![GitHub stars](https://img.shields.io/github/stars/catalyst-team/catalyst)](https://github.com/catalyst-team/catalyst/stargazers) ⭐ 3,388 | 🐛 6 | 🌐 Python | 📅 2026-07-08 ![GitHub last commit](https://img.shields.io/github/last-commit/catalyst-team/catalyst?label=last%20update)
+* [facebookresearch/rl](https://github.com/facebookresearch/rl) ⭐ 3,609 | 🐛 306 | 🌐 Python | 📅 2026-10-22 (uses pytorch) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/rl)](https://github.com/facebookresearch/rl/stargazers) ⭐ 3,609 | 🐛 306 | 🌐 Python | 📅 2026-10-22 ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/rl?label=last%20update)
+* [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) ⭐ 3,389 | 🐛 7 | 🌐 Python | 📅 2026-07-08 [![GitHub stars](https://img.shields.io/github/stars/catalyst-team/catalyst)](https://github.com/catalyst-team/catalyst/stargazers) ⭐ 3,389 | 🐛 7 | 🌐 Python | 📅 2026-07-08 ![GitHub last commit](https://img.shields.io/github/last-commit/catalyst-team/catalyst?label=last%20update)
 * [reinforceio/tensorforce](https://github.com/reinforceio/tensorforce) ⭐ 3,305 | 🐛 47 | 🌐 Python | 📅 2026-09-02 (uses tensorflow) [![GitHub stars](https://img.shields.io/github/stars/reinforceio/tensorforce)](https://github.com/reinforceio/tensorforce/stargazers) ⭐ 3,305 | 🐛 47 | 🌐 Python | 📅 2026-09-02 ![GitHub last commit](https://img.shields.io/github/last-commit/reinforceio/tensorforce?label=last%20update)
 * [deepmind/trfl](https://github.com/deepmind/trfl) ⭐ 3,130 | 🐛 6 | 🌐 Python | 📅 2022-12-08 (uses tensorflow) [![GitHub stars](https://img.shields.io/github/stars/deepmind/trfl)](https://github.com/deepmind/trfl/stargazers) ⭐ 3,130 | 🐛 6 | 🌐 Python | 📅 2022-12-08 ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/trfl?label=last%20update)
-* [rll/rllab](https://github.com/rll/rllab) ⭐ 3,081 | 🐛 117 | 🌐 Python | 📅 2023-06-10 ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...) [![GitHub stars](https://img.shields.io/github/stars/rll/rllab)](https://github.com/rll/rllab/stargazers) ⭐ 3,081 | 🐛 117 | 🌐 Python | 📅 2023-06-10 ![GitHub last commit](https://img.shields.io/github/last-commit/rll/rllab?label=last%20update)
-* [leggedrobotics/rsl\_rl](https://github.com/leggedrobotics/rsl_rl) ⭐ 3,078 | 🐛 8 | 🌐 Python | 📅 2026-10-12: [![GitHub stars](https://img.shields.io/github/stars/leggedrobotics/rsl_rl)](https://github.com/leggedrobotics/rsl_rl/stargazers) ⭐ 3,078 | 🐛 8 | 🌐 Python | 📅 2026-10-12 ![GitHub last commit](https://img.shields.io/github/last-commit/leggedrobotics/rsl_rl?label=last%20update)
+* [leggedrobotics/rsl\_rl](https://github.com/leggedrobotics/rsl_rl) ⭐ 3,082 | 🐛 9 | 🌐 Python | 📅 2026-10-12: [![GitHub stars](https://img.shields.io/github/stars/leggedrobotics/rsl_rl)](https://github.com/leggedrobotics/rsl_rl/stargazers) ⭐ 3,082 | 🐛 9 | 🌐 Python | 📅 2026-10-12 ![GitHub last commit](https://img.shields.io/github/last-commit/leggedrobotics/rsl_rl?label=last%20update)
+* [rll/rllab](https://github.com/rll/rllab) ⭐ 3,080 | 🐛 117 | 🌐 Python | 📅 2023-06-10 ([readthedocs](http://rllab.readthedocs.io)) (officialy uses theano; in practice has some keras, tensorflow, torch, chainer...) [![GitHub stars](https://img.shields.io/github/stars/rll/rllab)](https://github.com/rll/rllab/stargazers) ⭐ 3,080 | 🐛 117 | 🌐 Python | 📅 2023-06-10 ![GitHub last commit](https://img.shields.io/github/last-commit/rll/rllab?label=last%20update)
 * TF-Agents: [tensorflow/agents](https://github.com/tensorflow/agents) ⭐ 3,031 | 🐛 214 | 🌐 Python | 📅 2026-01-16 (uses tensorflow) [![GitHub stars](https://img.shields.io/github/stars/tensorflow/agents)](https://github.com/tensorflow/agents/stargazers) ⭐ 3,031 | 🐛 214 | 🌐 Python | 📅 2026-01-16 ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/agents?label=last%20update)
-* [rail-berkeley/rlkit](https://github.com/rail-berkeley/rlkit) ⭐ 2,945 | 🐛 40 | 🌐 Python | 📅 2024-06-17 [![GitHub stars](https://img.shields.io/github/stars/rail-berkeley/rlkit)](https://github.com/rail-berkeley/rlkit/stargazers) ⭐ 2,945 | 🐛 40 | 🌐 Python | 📅 2024-06-17 ![GitHub last commit](https://img.shields.io/github/last-commit/rail-berkeley/rlkit?label=last%20update)
-* [astooke/rlpyt](https://github.com/astooke/rlpyt) ⭐ 2,277 | 🐛 63 | 🌐 Python | 📅 2021-01-04 (uses pytorch) [![GitHub stars](https://img.shields.io/github/stars/astooke/rlpyt)](https://github.com/astooke/rlpyt/stargazers) ⭐ 2,277 | 🐛 63 | 🌐 Python | 📅 2021-01-04 ![GitHub last commit](https://img.shields.io/github/last-commit/astooke/rlpyt?label=last%20update)
+* [rail-berkeley/rlkit](https://github.com/rail-berkeley/rlkit) ⭐ 2,946 | 🐛 40 | 🌐 Python | 📅 2024-06-17 [![GitHub stars](https://img.shields.io/github/stars/rail-berkeley/rlkit)](https://github.com/rail-berkeley/rlkit/stargazers) ⭐ 2,946 | 🐛 40 | 🌐 Python | 📅 2024-06-17 ![GitHub last commit](https://img.shields.io/github/last-commit/rail-berkeley/rlkit?label=last%20update)
+* [astooke/rlpyt](https://github.com/astooke/rlpyt) ⭐ 2,278 | 🐛 63 | 🌐 Python | 📅 2021-01-04 (uses pytorch) [![GitHub stars](https://img.shields.io/github/stars/astooke/rlpyt)](https://github.com/astooke/rlpyt/stargazers) ⭐ 2,278 | 🐛 63 | 🌐 Python | 📅 2021-01-04 ![GitHub last commit](https://img.shields.io/github/last-commit/astooke/rlpyt?label=last%20update)
 * [oxwhirl/pymarl](https://github.com/oxwhirl/pymarl) ⭐ 2,224 | 🐛 62 | 🌐 Python | 📅 2022-12-08 (support: <http://whirl.cs.ox.ac.uk>): deep multi-agent reinforcement learning [![GitHub stars](https://img.shields.io/github/stars/oxwhirl/pymarl)](https://github.com/oxwhirl/pymarl/stargazers) ⭐ 2,224 | 🐛 62 | 🌐 Python | 📅 2022-12-08 ![GitHub last commit](https://img.shields.io/github/last-commit/oxwhirl/pymarl?label=last%20update)
 * [deepmind/bsuite](https://github.com/deepmind/bsuite) ⭐ 1,564 | 🐛 24 | 🌐 Python | 📅 2026-10-05 (Environments, Algorithm Implementations, Benchmarking) [![GitHub stars](https://img.shields.io/github/stars/deepmind/bsuite)](https://github.com/deepmind/bsuite/stargazers) ⭐ 1,564 | 🐛 24 | 🌐 Python | 📅 2026-10-05 ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/bsuite?label=last%20update)
 * [tinkoff-ai/CORL](https://github.com/tinkoff-ai/CORL) ⚠️ Archived "High-quality single-file implementations of SOTA Offline RL algorithms: AWAC, BC, CQL, DT, EDAC, IQL, SAC-N, TD3+BC" [![GitHub stars](https://img.shields.io/github/stars/tinkoff-ai/CORL)](https://github.com/tinkoff-ai/CORL/stargazers) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/tinkoff-ai/CORL?label=last%20update)
 * [chainer/chainerrl](https://github.com/chainer/chainerrl) ⭐ 1,203 | 🐛 65 | 🌐 Python | 📅 2021-08-10 (API: Python) [![GitHub stars](https://img.shields.io/github/stars/chainer/chainerrl)](https://github.com/chainer/chainerrl/stargazers) ⭐ 1,203 | 🐛 65 | 🌐 Python | 📅 2021-08-10 ![GitHub last commit](https://img.shields.io/github/last-commit/chainer/chainerrl?label=last%20update)
-* [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl) ⭐ 944 | 🐛 2 | 🌐 Python | 📅 2026-10-20 [![GitHub stars](https://img.shields.io/github/stars/MushroomRL/mushroom-rl)](https://github.com/MushroomRL/mushroom-rl/stargazers) ⭐ 944 | 🐛 2 | 🌐 Python | 📅 2026-10-20 ![GitHub last commit](https://img.shields.io/github/last-commit/MushroomRL/mushroom-rl?label=last%20update)
-* [trackmania-rl/tmrl](https://github.com/trackmania-rl/tmrl) ⭐ 749 | 🐛 4 | 🌐 Python | 📅 2026-06-09 [![GitHub stars](https://img.shields.io/github/stars/trackmania-rl/tmrl)](https://github.com/trackmania-rl/tmrl/stargazers) ⭐ 749 | 🐛 4 | 🌐 Python | 📅 2026-06-09 ![GitHub last commit](https://img.shields.io/github/last-commit/trackmania-rl/tmrl?label=last%20update)
+* [MushroomRL/mushroom-rl](https://github.com/MushroomRL/mushroom-rl) ⭐ 944 | 🐛 2 | 🌐 Python | 📅 2026-10-21 [![GitHub stars](https://img.shields.io/github/stars/MushroomRL/mushroom-rl)](https://github.com/MushroomRL/mushroom-rl/stargazers) ⭐ 944 | 🐛 2 | 🌐 Python | 📅 2026-10-21 ![GitHub last commit](https://img.shields.io/github/last-commit/MushroomRL/mushroom-rl?label=last%20update)
+* [trackmania-rl/tmrl](https://github.com/trackmania-rl/tmrl) ⭐ 748 | 🐛 4 | 🌐 Python | 📅 2026-06-09 [![GitHub stars](https://img.shields.io/github/stars/trackmania-rl/tmrl)](https://github.com/trackmania-rl/tmrl/stargazers) ⭐ 748 | 🐛 4 | 🌐 Python | 📅 2026-06-09 ![GitHub last commit](https://img.shields.io/github/last-commit/trackmania-rl/tmrl?label=last%20update)
 * [medipixel/rl\_algorithms](https://github.com/medipixel/rl_algorithms) ⭐ 518 | 🐛 15 | 🌐 Python | 📅 2023-04-08 [![GitHub stars](https://img.shields.io/github/stars/medipixel/rl_algorithms)](https://github.com/medipixel/rl_algorithms/stargazers) ⭐ 518 | 🐛 15 | 🌐 Python | 📅 2023-04-08 ![GitHub last commit](https://img.shields.io/github/last-commit/medipixel/rl_algorithms?label=last%20update)
 * [SurrealAI/surreal](https://github.com/SurrealAI/surreal) ⭐ 493 | 🐛 7 | 🌐 Python | 📅 2020-05-05 (API: Python) (support: Stanford Vision and Learning Lab). [![GitHub stars](https://img.shields.io/github/stars/SurrealAI/surreal)](https://github.com/SurrealAI/surreal/stargazers) ⭐ 493 | 🐛 7 | 🌐 Python | 📅 2020-05-05 ![GitHub last commit](https://img.shields.io/github/last-commit/SurrealAI/surreal?label=last%20update)
 * [learnables/cherry](https://github.com/learnables/cherry) ⭐ 196 | 🐛 3 | 🌐 Python | 📅 2025-06-22 (API: Python) (layer over pytorch) [![GitHub stars](https://img.shields.io/github/stars/learnables/cherry)](https://github.com/learnables/cherry/stargazers) ⭐ 196 | 🐛 3 | 🌐 Python | 📅 2025-06-22 ![GitHub last commit](https://img.shields.io/github/last-commit/learnables/cherry?label=last%20update)
@@ -434,11 +434,11 @@ Attempting to order by popularity (in practice should look at more aspects such 
 
 Lower level:
 
-* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 201,153 | 🐛 3,438 | 🌐 C++ | 📅 2026-10-21 [![GitHub stars](https://img.shields.io/github/stars/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow/stargazers) ⭐ 201,153 | 🐛 3,438 | 🌐 C++ | 📅 2026-10-21 ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow?label=last%20update)
-* [pytorch/pytorch](https://github.com/pytorch/pytorch) ⭐ 104,937 | 🐛 17,650 | 🌐 Python | 📅 2026-10-21 <https://pytorch.org> [![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch)](https://github.com/pytorch/pytorch/stargazers) ⭐ 104,937 | 🐛 17,650 | 🌐 Python | 📅 2026-10-21 ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/pytorch?label=last%20update)
+* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 201,178 | 🐛 3,450 | 🌐 C++ | 📅 2026-10-22 [![GitHub stars](https://img.shields.io/github/stars/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow/stargazers) ⭐ 201,178 | 🐛 3,450 | 🌐 C++ | 📅 2026-10-22 ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow?label=last%20update)
+* [pytorch/pytorch](https://github.com/pytorch/pytorch) ⭐ 104,976 | 🐛 17,691 | 🌐 Python | 📅 2026-10-22 <https://pytorch.org> [![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch)](https://github.com/pytorch/pytorch/stargazers) ⭐ 104,976 | 🐛 17,691 | 🌐 Python | 📅 2026-10-22 ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/pytorch?label=last%20update)
   * <https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html>
-* [keras-team/keras](https://github.com/keras-team/keras) ⭐ 64,378 | 🐛 248 | 🌐 Python | 📅 2026-10-20 <https://keras.io/> [![GitHub stars](https://img.shields.io/github/stars/keras-team/keras)](https://github.com/keras-team/keras/stargazers) ⭐ 64,378 | 🐛 248 | 🌐 Python | 📅 2026-10-20 ![GitHub last commit](https://img.shields.io/github/last-commit/keras-team/keras?label=last%20update)
-* [google/jax](https://github.com/google/jax) ⭐ 36,476 | 🐛 2,556 | 🌐 Python | 📅 2026-10-21: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more. [![GitHub stars](https://img.shields.io/github/stars/google/jax)](https://github.com/google/jax/stargazers) ⭐ 36,476 | 🐛 2,556 | 🌐 Python | 📅 2026-10-21 ![GitHub last commit](https://img.shields.io/github/last-commit/google/jax?label=last%20update)
+* [keras-team/keras](https://github.com/keras-team/keras) ⭐ 64,377 | 🐛 269 | 🌐 Python | 📅 2026-10-21 <https://keras.io/> [![GitHub stars](https://img.shields.io/github/stars/keras-team/keras)](https://github.com/keras-team/keras/stargazers) ⭐ 64,377 | 🐛 269 | 🌐 Python | 📅 2026-10-21 ![GitHub last commit](https://img.shields.io/github/last-commit/keras-team/keras?label=last%20update)
+* [google/jax](https://github.com/google/jax) ⭐ 36,481 | 🐛 2,575 | 🌐 Python | 📅 2026-10-22: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more. [![GitHub stars](https://img.shields.io/github/stars/google/jax)](https://github.com/google/jax/stargazers) ⭐ 36,481 | 🐛 2,575 | 🌐 Python | 📅 2026-10-22 ![GitHub last commit](https://img.shields.io/github/last-commit/google/jax?label=last%20update)
 
 Specific to Model-based:
 
@@ -463,27 +463,27 @@ Comparison:
 
 ### RL/DRL Environments
 
-* [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) ⭐ 12,703 | 🐛 117 | 🌐 Python | 📅 2026-10-14 (<https://gymnasium.farama.org>) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium)](https://github.com/Farama-Foundation/Gymnasium/stargazers) ⭐ 12,703 | 🐛 117 | 🌐 Python | 📅 2026-10-14 ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/Gymnasium?label=last%20update). ~~DEPRECATED: [openai/gym](https://github.com/openai/gym) ⚠️ Archived, <https://gym.openai.com>, <https://gym.openai.com/docs/>~~
-  * [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,778 | 🐛 20 | 🌐 C# | 📅 2026-10-20 (Environments, Algorithms) (includes design of environments)
-  * <https://github.com/Farama-Foundation/Gymnasium/network/dependents> ⭐ 12,703 | 🐛 117 | 🌐 Python | 📅 2026-10-14
-  * [deepmind/pysc2](https://github.com/deepmind/pysc2) ⭐ 8,332 | 🐛 65 | 🌐 Python | 📅 2024-07-23 (by DeepMind) (Blizzard StarCraft II Learning Environment (SC2LE) component)
+* [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) ⭐ 12,701 | 🐛 120 | 🌐 Python | 📅 2026-10-14 (<https://gymnasium.farama.org>) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium)](https://github.com/Farama-Foundation/Gymnasium/stargazers) ⭐ 12,701 | 🐛 120 | 🌐 Python | 📅 2026-10-14 ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/Gymnasium?label=last%20update). ~~DEPRECATED: [openai/gym](https://github.com/openai/gym) ⚠️ Archived, <https://gym.openai.com>, <https://gym.openai.com/docs/>~~
+  * [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,782 | 🐛 21 | 🌐 C# | 📅 2026-10-21 (Environments, Algorithms) (includes design of environments)
+  * <https://github.com/Farama-Foundation/Gymnasium/network/dependents> ⭐ 12,701 | 🐛 120 | 🌐 Python | 📅 2026-10-14
+  * [deepmind/pysc2](https://github.com/deepmind/pysc2) ⭐ 8,333 | 🐛 65 | 🌐 Python | 📅 2024-07-23 (by DeepMind) (Blizzard StarCraft II Learning Environment (SC2LE) component)
   * [Microsoft/malmo](https://github.com/Microsoft/malmo) ⚠️ Archived
   * [openai/retro](https://github.com/openai/retro) ⚠️ Archived
   * [eleurent/highway-env](https://github.com/eleurent/highway-env) ⭐ 3,331 | 🐛 45 | 🌐 Python | 📅 2026-10-17
-  * [leggedrobotics/legged\_gym](https://github.com/leggedrobotics/legged_gym) ⭐ 3,151 | 🐛 59 | 🌐 Python | 📅 2025-05-29
+  * [leggedrobotics/legged\_gym](https://github.com/leggedrobotics/legged_gym) ⭐ 3,154 | 🐛 59 | 🌐 Python | 📅 2025-05-29
   * [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) ⚠️ Archived
-  * [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,528 | 🐛 32 | 🌐 Python | 📅 2026-10-15
+  * [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,527 | 🐛 32 | 🌐 Python | 📅 2026-10-15
   * ~~DEPRECATED: [openai/roboschool](https://github.com/openai/roboschool) ⚠️ Archived~~
-  * [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom) ⭐ 2,101 | 🐛 45 | 🌐 C++ | 📅 2026-10-19 (was [mwydmuch/ViZDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,101 | 🐛 45 | 🌐 C++ | 📅 2026-10-19)
-  * [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) ⭐ 1,959 | 🐛 28 | 🌐 Python | 📅 2026-10-14
+  * [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom) ⭐ 2,102 | 🐛 48 | 🌐 C++ | 📅 2026-10-21 (was [mwydmuch/ViZDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,102 | 🐛 48 | 🌐 C++ | 📅 2026-10-21)
+  * [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) ⭐ 1,960 | 🐛 28 | 🌐 Python | 📅 2026-10-14
   * [deepmind/bsuite](https://github.com/deepmind/bsuite) ⭐ 1,564 | 🐛 24 | 🌐 Python | 📅 2026-10-05 (Environments, Algorithms, Benchmarking)
   * [Improbable-AI/walk-these-ways](https://github.com/Improbable-AI/walk-these-ways) ⭐ 1,466 | 🐛 9 | 🌐 Python | 📅 2024-06-16
   * [LucasAlegre/sumo-rl](https://github.com/LucasAlegre/sumo-rl) ⭐ 1,095 | 🐛 12 | 🌐 Python | 📅 2026-03-08
-  * [minerllabs/minerl](https://github.com/minerllabs/minerl) ⭐ 978 | 🐛 241 | 🌐 Java | 📅 2025-01-22
-  * [utiasDSL/safe-control-gym](https://github.com/utiasDSL/safe-control-gym) ⭐ 927 | 🐛 6 | 🌐 Python | 📅 2026-04-29
+  * [minerllabs/minerl](https://github.com/minerllabs/minerl) ⭐ 979 | 🐛 241 | 🌐 Java | 📅 2025-01-22
+  * [utiasDSL/safe-control-gym](https://github.com/utiasDSL/safe-control-gym) ⭐ 928 | 🐛 6 | 🌐 Python | 📅 2026-04-29
   * [benelot/pybullet-gym](https://github.com/benelot/pybullet-gym) ⭐ 884 | 🐛 33 | 🌐 Python | 📅 2021-10-16
   * [erlerobot/gym-gazebo](https://github.com/erlerobot/gym-gazebo) ⚠️ Archived
-  * [Farama-Foundation/MiniWorld](https://github.com/Farama-Foundation/MiniWorld) ⭐ 781 | 🐛 10 | 🌐 Python | 📅 2026-03-02
+  * [Farama-Foundation/MiniWorld](https://github.com/Farama-Foundation/MiniWorld) ⭐ 782 | 🐛 10 | 🌐 Python | 📅 2026-03-02
   * [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym) ⭐ 768 | 🐛 10 | 🌐 Python | 📅 2024-07-23
   * [koulanurag/ma-gym](https://github.com/koulanurag/ma-gym) ⭐ 636 | 🐛 0 | 🌐 Python | 📅 2024-07-07 (multiagent)
   * [openai/safety-gym](https://github.com/openai/safety-gym) ⚠️ Archived
@@ -512,7 +512,7 @@ Comparison:
     * [stanfordnmbl/osim-rl](https://github.com/stanfordnmbl/osim-rl) ⭐ 948 | 🐛 37 | 🌐 Python | 📅 2022-01-24
     * [UtkarshMishra04/bioimitation-gym](https://github.com/UtkarshMishra04/bioimitation-gym) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2021-11-18
   * Electric Engineering
-    * [intelligent-environments-lab/CityLearn](https://github.com/intelligent-environments-lab/CityLearn) ⭐ 652 | 🐛 12 | 🌐 Python | 📅 2026-09-22 (multiagent)
+    * [intelligent-environments-lab/CityLearn](https://github.com/intelligent-environments-lab/CityLearn) ⭐ 653 | 🐛 13 | 🌐 Python | 📅 2026-09-22 (multiagent)
     * [upb-lea/gym-electric-motor](https://github.com/upb-lea/gym-electric-motor) ⭐ 431 | 🐛 34 | 🌐 Python | 📅 2025-12-19
     * [upb-lea/openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym) ⭐ 230 | 🐛 14 | 🌐 Modelica | 📅 2022-06-13
     * [tobirohrer/building-energy-storage-simulation](https://github.com/tobirohrer/building-energy-storage-simulation) ⭐ 64 | 🐛 6 | 🌐 Python | 📅 2024-01-15
@@ -527,8 +527,8 @@ Comparison:
 
 Multi-agent:
 
-* [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) ⭐ 3,539 | 🐛 64 | 🌐 Python | 📅 2026-10-09 (<https://pettingzoo.farama.org>) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/PettingZoo)](https://github.com/Farama-Foundation/PettingZoo/stargazers) ⭐ 3,539 | 🐛 64 | 🌐 Python | 📅 2026-10-09 ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/PettingZoo?label=last%20update)
-  * [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,778 | 🐛 20 | 🌐 C# | 📅 2026-10-20 (Environments, Algorithms) (includes design of environments)
+* [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) ⭐ 3,538 | 🐛 65 | 🌐 Python | 📅 2026-10-09 (<https://pettingzoo.farama.org>) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/PettingZoo)](https://github.com/Farama-Foundation/PettingZoo/stargazers) ⭐ 3,538 | 🐛 65 | 🌐 Python | 📅 2026-10-09 ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/PettingZoo?label=last%20update)
+  * [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,782 | 🐛 21 | 🌐 C# | 📅 2026-10-21 (Environments, Algorithms) (includes design of environments)
   * [LucasAlegre/sumo-rl](https://github.com/LucasAlegre/sumo-rl) ⭐ 1,095 | 🐛 12 | 🌐 Python | 📅 2026-03-08
   * [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2) ⭐ 966 | 🐛 20 | 🌐 Python | 📅 2026-10-17
 
@@ -550,7 +550,7 @@ Reproducible:
 
 Metrics/benchmarks:
 
-* [stepjam/RLBench](https://github.com/stepjam/RLBench) ⭐ 1,831 | 🐛 96 | 🌐 Python | 📅 2025-01-25 (<https://sites.google.com/view/rlbench>) "A large-scale benchmark and learning environment." [![GitHub stars](https://img.shields.io/github/stars/stepjam/RLBench)](https://github.com/stepjam/RLBench/stargazers) ⭐ 1,831 | 🐛 96 | 🌐 Python | 📅 2025-01-25 ![GitHub last commit](https://img.shields.io/github/last-commit/stepjam/RLBench?label=last%20update)
+* [stepjam/RLBench](https://github.com/stepjam/RLBench) ⭐ 1,832 | 🐛 96 | 🌐 Python | 📅 2025-01-25 (<https://sites.google.com/view/rlbench>) "A large-scale benchmark and learning environment." [![GitHub stars](https://img.shields.io/github/stars/stepjam/RLBench)](https://github.com/stepjam/RLBench/stargazers) ⭐ 1,832 | 🐛 96 | 🌐 Python | 📅 2025-01-25 ![GitHub last commit](https://img.shields.io/github/last-commit/stepjam/RLBench?label=last%20update)
 * [google-research/rliable](https://github.com/google-research/rliable) ⚠️ Archived (<https://agarwl.github.io/rliable>) "reliable evaluation on RL and ML benchmarks, even with only a handful of seeds" [![GitHub stars](https://img.shields.io/github/stars/google-research/rliable)](https://github.com/google-research/rliable/stargazers) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/google-research/rliable?label=last%20update)
 * [google-research/rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics) ⚠️ Archived "provides a set of metrics for measuring the reliability of reinforcement learning (RL) algorithm" [![GitHub stars](https://img.shields.io/github/stars/google-research/rl-reliability-metrics)](https://github.com/google-research/rl-reliability-metrics/stargazers) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/google-research/rl-reliability-metrics?label=last%20update)
 * [HYDesmondLiu/B2RL](https://github.com/HYDesmondLiu/B2RL) ⭐ 9 | 🐛 0 | 📅 2023-05-10 "Building Batch Reinforcement Learning Dataset" [![GitHub stars](https://img.shields.io/github/stars/HYDesmondLiu/B2RL)](https://github.com/HYDesmondLiu/B2RL/stargazers) ⭐ 9 | 🐛 0 | 📅 2023-05-10 ![GitHub last commit](https://img.shields.io/github/last-commit/HYDesmondLiu/B2RL?label=last%20update)
@@ -587,7 +587,7 @@ Only accounting those with same objective as RL.
 
 ## Similar pages
 
-* [terryum/awesome-deep-learning-papers#new-papers](https://github.com/terryum/awesome-deep-learning-papers#new-papers) ⭐ 26,195 | 🐛 38 | 🌐 TeX | 📅 2024-01-18
+* [terryum/awesome-deep-learning-papers#new-papers](https://github.com/terryum/awesome-deep-learning-papers#new-papers) ⭐ 26,196 | 🐛 38 | 🌐 TeX | 📅 2024-01-18
 * [tigerneil/awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) ⭐ 1,518 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-20
 * [hanjuku-kaso/awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl) ⭐ 1,081 | 🐛 1 | 📅 2024-05-23
 * [kengz/awesome-deep-rl](https://github.com/kengz/awesome-deep-rl) ⭐ 901 | 🐛 3 | 📅 2025-07-13
@@ -596,4 +596,4 @@ Only accounting those with same objective as RL.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
